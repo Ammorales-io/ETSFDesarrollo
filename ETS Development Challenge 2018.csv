@@ -1,0 +1,1001 @@
+id,name,currency,fees,sector,region,class
+ES0138217031,Gesconsult Renta Fija Flexible FI Acc,EUR,0.016275,No sector,Global,Multi-Asset
+ES0138986031,EUROVAL RF CORTO Acc,EUR,0.0101,No sector,Eurozone,Bond
+GB0006778467,Boston Company US Opportunities Retail Acc,EUR,0.0218,No sector,United States,Equity
+GB0006778798,Newton Continental European Fund Retail Acc,EUR,0.0216,No sector,Europe Ex UK,Equity
+GB0006779762,Newton International Bond Fund Retail Acc,EUR,0.0164,No sector,Global,Bond
+GB0006780109,Newton Global Equity Retail Acc,EUR,0.0212,No sector,Global,Equity
+GB0006781396,Newton Oriental Fund Retail Acc,EUR,0.0221,No sector,Asia Pacific Ex Japan,Equity
+LU0006061252,BGF Japan Small & Midcap Opportunities A Acc,USD,0.0181,No sector,Japan,Equity
+LU0006061336,BGF US Small & Midcap Opportunities Fund A Acc,USD,0.01806,No sector,United States,Equity
+LU0006061385,BGF Global Government Bond Fund A Acc,USD,0.009642,No sector,Global,Bond
+LU0006061419,BGF US Dollar Reserve A Acc,USD,0.0054,No sector,United States,Money Market
+LU0011846440,BGF European Fund A Acc,EUR,0.018062,No sector,Advanced Europe,Equity
+LU0171280430,BGF European Fund A Acc,USD,0.0181,No sector,Advanced Europe,Equity
+LU0171293334,BGF United Kingdom Fund A Acc,USD,0.0181,No sector,United Kingdom,Equity
+LU0011847091,BGF United Kingdom Fund A Acc,GBP,0.018137,No sector,United Kingdom,Equity
+LU0011850046,BGF Global Opportunities Fund A Acc,USD,0.018156,No sector,Global Advanced Markets,Equity
+LU0011850392,BGF Emerging Europe Fund A Acc,EUR,0.021631,No sector,Emerging Europe,Equity
+LU0171273575,BGF Emerging Europe Fund A Acc,USD,0.0218,No sector,Emerging Europe,Equity
+LU0047713382,BGF Emerging Markets Fund A Acc,USD,0.018419,No sector,Emerging Markets Global,Equity
+LU0050372472,BGF Euro Bond Fund A Acc,EUR,0.009651,No sector,Europe,Bond
+LU0055631609,BGF World Gold Fund ARF Acc,USD,0.020536,Materials/Materials/Metals & Mining,Global,Equity
+LU0075056555,BGF World Mining Fund A Acc,USD,0.020585,Materials/Materials/Metals & Mining,Global,Equity
+LU0171277485,BGF Euro-Markets Fund A Acc,USD,0.0181,No sector,Eurozone,Equity
+LU0093502762,BGF Euro-Markets Fund A Acc,EUR,0.01813,No sector,Eurozone,Equity
+LU0093503497,BGF Flexible Multi-Asset Fund A Acc,EUR,0.017663,No sector,Global Advanced Markets,Multi-Asset
+LU0093503810,BGF Euro Short Duration Bond Fund A Acc,EUR,0.008944,No sector,Eurozone,Bond
+LU0093504206,BGF Global High Yield Bond Fund A Acc Hedged,EUR,0.014627,No sector,Global,Bond
+LU0171284937,BGF Global High Yield Bond Fund A Acc,USD,0.014576,No sector,Global,Bond
+LU0049527079,CS (Lux) Swiss Franc Bond Fund B Acc,CHF,0.009,No sector,Global,Bond
+LU0091100973,CS (Lux) Portfolio Fund Balanced EUR B Acc,EUR,0.015,No sector,Global Advanced Markets,Multi-Asset
+LU0078042883,CS (Lux) Portfolio Fund Yield CHF B Acc,CHF,0.013,No sector,Global,Multi-Asset
+LU0078046959,CS (Lux) Portfolio Fund Yield USD B Acc,USD,0.013,No sector,Global,Multi-Asset
+LU0078041133,CS (Lux) Portfolio Fund Balanced USD B Acc,USD,0.015,No sector,Global Advanced Markets,Multi-Asset
+LU0505785005,Aberdeen Global Eastern European Equity S Acc,EUR,0.0241,No sector,Emerging Europe,Equity
+LU0052265898,CS (Lux) Small and Mid Cap Germany Equity Fund B Acc,EUR,0.0192,No sector,Germany,Equity
+LU0055733355,CS (Lux) Italy Equity Fund B Acc,EUR,0.0192,No sector,Italy,Equity
+LU0048365026,CS (Lux) Small and Mid Cap Europe Equity Fund B Acc,EUR,0.0192,No sector,Advanced Europe,Equity
+LU0100599173,Invesco Global Bond Fund C Acc,USD,0.005,No sector,Global,Bond
+LU0100597557,Invesco USD Reserve Fund C Acc,USD,0.0025,No sector,United States,Money Market
+LU0100597474,Invesco Asia Opportunities Equity Fund C Acc,USD,0.01,No sector,Emerging Asia Pacific,Equity
+LU0100600369,Invesco Greater China Equity Fund C Acc,USD,0.01,No sector,Greater China,Equity
+LU0100598522,Invesco Emerging Europe Equity Fund C Acc,USD,0.01,No sector,Emerging Europe,Equity
+LU0100598878,Invesco Global Leisure Fund C Acc,USD,0.01,"Consumer Discretionary/Consumer Services/Hotels, Restaurants & Leisure",Global,Equity
+LU0100600799,Invesco Nippon Small-Mid Cap Equity Fund C Acc,JPY,0.01,No sector,Japan,Equity
+IE0003600503,Invesco Pacific Equity Fund C Dis,USD,0.01,No sector,Emerging Asia Pacific,Equity
+IE0003702424,Invesco Asean Equity Fund C Dis,USD,0.01,No sector,Asia Pacific Ex Japan,Equity
+IE0003599283,Invesco Japanese Equity Fund C Dis,USD,0.01,No sector,Japan,Equity
+IE0003702200,Invesco Bond FundC Dis,USD,0.005,No sector,Global,Bond
+IE0003600834,Invesco Emerging Markets Equity Fund C Dis,USD,0.015,No sector,Emerging Markets Global,Equity
+IE0003708223,Invesco ContinentalEuropean Small Cap Equity Fund C Dis,USD,0.015,No sector,Europe Ex UK,Equity
+IE0003703273,Invesco Gilt Fund C Dis,GBP,0.004,No sector,United Kingdom,Bond
+IE0003594904,Invesco Global Small Cap Equity Fund C Dis,USD,0.01,No sector,Global,Equity
+IE0003824301,Invesco Global Health Care Fund C Dis,USD,0.015,Health Care,Global,Equity
+IE0003713199,Invesco Korean Equity Fund C Dis,USD,0.015,No sector,South Korea,Equity
+IE0003583675,Invesco PRC Equity Fund C Dis,USD,0.0125,No sector,China,Equity
+IE0003561895,Invesco Global High Income Fund C Dis,USD,0.0075,No sector,Global,Bond
+IE0003708009,Invesco Global Technology Fund C Dis,USD,0.01,Information Technology,United States,Equity
+LU0171289068,BGF Japan Small & Midcap Opportunities A Acc,EUR,0.0181,No sector,Japan,Equity
+LU0171275786,BGF Emerging Markets Fund A Acc,EUR,0.0185,No sector,Emerging Markets Global,Equity
+LU0078046520,CS (Lux)Portfolio Fund Reddito EUR B Acc,EUR,0.012,No sector,Advanced Europe,Multi-Asset
+LU0048573645,FF - ASEAN Fund A Dis,USD,0.0197,No sector,Asia Pacific Ex Japan,Equity
+LU0048587868,FF - Malaysia Fund A Dis,USD,0.02,No sector,Malaysia,Equity
+LU0048582984,FF - Global Bond Fund A Dis,USD,0.0116,No sector,Global,Bond
+LU0048573561,FF - America Fund A Dis,USD,0.0188,No sector,United States,Equity
+LU0048597586,FF - South East Asia Fund A Dis,USD,0.0195,No sector,Asia Pacific Ex Japan,Equity
+LU0048622798,FF - US Dollar Bond Fund A Dis,USD,0.0116,No sector,United States,Bond
+LU0048620586,FF - Flexible Bond Fund A Dis,GBP,0.0142,No sector,United Kingdom,Bond
+LU0048578792,FF - European Growth Fund A Dis,EUR,0.0189,No sector,Advanced Europe,Equity
+LU0048585144,FF - Japan Fund A Dis,JPY,0.0194,No sector,Japan,Equity
+LU0048579410,FF - France Fund A Dis,EUR,0.0194,No sector,France,Equity
+LU0048580004,FF - Germany Fund A Dis,EUR,0.0191,No sector,Germany,Equity
+LU0048580855,FF - Greater China Fund A Dis,USD,0.0196,No sector,Greater China,Equity
+LU0048581077,FF - Iberia Fund A Dis,EUR,0.0193,No sector,Iberia,Equity
+LU0048584766,FF - Italy Fund A Dis,EUR,0.0192,No sector,Italy,Equity
+LU0048588080,FF - Nordic Fund A Dis,SEK,0.0196,No sector,Nordic,Equity
+LU0048588163,FF - Singapore Fund A Dis,USD,0.02,No sector,Singapore,Equity
+LU0048621477,FF - Thailand Fund A Dis,USD,0.0198,No sector,Thailand,Equity
+LU0048621717,FF - United Kingdom Fund A Dis,GBP,0.0194,No sector,United Kingdom,Equity
+LU0048579097,FF - Euro Bond Fund A Dis,EUR,0.0105,No sector,Eurozone,Bond
+LU0048574536,FF - Australia Fund A Dis,AUD,0.0193,No sector,Australia,Equity
+LU0048587603,FF - Japan Smaller Companies Fund A Dis,JPY,0.0197,No sector,Japan,Equity
+LU0048584097,FF - International Fund A Dis,USD,0.0191,No sector,Global Advanced Markets,Equity
+LU0048575426,FF - Emerging Markets Fund A Dis,USD,0.0194,No sector,Emerging Markets Global,Equity
+LU0049112450,FF - Pacific Fund A Dis,USD,0.0193,No sector,Asia Pacific Ex Japan,Equity
+LU0050427557,FF - Latin America Fund A Dis,USD,0.0199,No sector,Emerging Latin America,Equity
+LU0054237671,FF - Asian Special Situations Fund A Dis,USD,0.0196,No sector,Asia Pacific Ex Japan,Equity
+LU0052588471,FF - Euro Balanced Fund A Dis,EUR,0.014,No sector,Advanced Europe,Multi-Asset
+LU0055114457,FF - Indonesia Fund A Dis,USD,0.0199,No sector,Indonesia,Equity
+LU0054754816,FF - Switzerland Fund A Dis,CHF,0.0194,No sector,Switzerland,Equity
+LU0061175625,FF - European Smaller Companies Fund A Dis,EUR,0.0193,No sector,Advanced Europe,Equity
+LU0075458603,FF - Taiwan Fund A Dis,USD,0.0206,No sector,Taiwan,Equity
+LU0077335932,FF - American Growth Fund A Dis,USD,0.019,No sector,United States,Equity
+LU0064963852,FF - US Dollar Cash Fund A Dis,USD,0.0062,No sector,United States,Money Market
+LU0064964074,FF - Euro Cash Fund A Dis,EUR,0.0015,No sector,Eurozone,Money Market
+LU0069450319,FF - Euro Stoxx50\x99 Fund A Dis,EUR,0.0035,No sector,Eurozone,Equity
+LU0069449576,FF - World Fund A Dis,EUR,0.019,No sector,Global,Equity
+LU0080749848,FF - Fidelity Patrimoine A Acc,EUR,0.0182,No sector,Global Advanced Markets,Multi-Asset
+LU0080751232,FF - SMART Global Moderate A Dis,USD,0.0231,No sector,Global Advanced Markets,Equity
+LU0088814487,FF - Euro Blue Chip Fund A Dis,EUR,0.0191,No sector,Eurozone,Equity
+LU0099574567,FF - Global Technology Fund A Dis,EUR,0.0192,Information Technology,Global,Equity
+LU0099575291,FF - Global Telecommunications Fund A Dis,EUR,0.0195,Telecommunication Services,Global,Equity
+LU0103193743,FF FID Selection Internationale A Dis,EUR,0.023,No sector,Global Advanced Markets,Equity
+LU0110060430,FF - European High Yield Fund A Dis,EUR,0.0139,No sector,Europe,Bond
+LU0114721508,FF - Global Consumer Industries Fund A Dis,EUR,0.0193,Consumer Discretionary,Global Advanced Markets,Equity
+LU0114722498,FF - Global Financial Services Fund A Dis,EUR,0.0192,Financials,Global,Equity
+LU0114722902,FF - Global Industrials Fund A Dis,EUR,0.0199,Industrials,Global Advanced Markets,Equity
+LU0056886558,FF - SMART Global Defensive A Dis,EUR,0.0188,No sector,Global Advanced Markets,Multi-Asset
+LU0431994713,Jpmorgan Funds - Emerging Markets Bond Fund A Acc,USD,0.0142,No sector,Emerging Markets Global,Bond
+LU0431995280,Jpmorgan Funds - Emerging Markets Bond Fund C Acc,USD,0.007,No sector,Emerging Markets Global,Bond
+LU0431992006,Jpmorgan Funds - Emerging Markets Opportunities Fund A Acc,USD,0.0176,No sector,Emerging Markets Global,Equity
+LU0431993079,Jpmorgan Funds - Emerging Markets Opportunities Fund C Acc,USD,0.0105,No sector,Emerging Markets Global,Equity
+LU0095938881,Jpmorgan InvestmentFunds - Global Macro Opportunities Fund A Acc,EUR,0.0145,No sector,Global,ARIS
+LU0095623541,Jpmorgan Investment Funds - Global Macro Opportunities Fund C Acc,EUR,0.0075,No sector,Global,ARIS
+LU0070211940,Jpmorgan Investment Funds - Global Macro Balanced Fund A Acc,EUR,0.0145,No sector,Global,ARIS
+LU0079555297,Jpmorgan Investment Funds - Global Macro Balanced Fund C Acc,EUR,0.0075,No sector,Global,ARIS
+LU0070212591,Jpmorgan Investment Funds - Global Balanced Fund (Eur) A Acc,EUR,0.0165,No sector,Global Advanced Markets,Multi-Asset
+LU0079555370,Jpmorgan Investment Funds - Global Balanced Fund (Eur) C Acc,EUR,0.009,No sector,Global Advanced Markets,Multi-Asset
+LU0070177232,JPM Euro Liquidity A Acc,EUR,0.0055,No sector,Eurozone,Money Market
+LU0088882138,JPM Euro Liquidity C Acc,EUR,0.0021,No sector,Eurozone,Money Market
+LU0108415935,Jpmorgan Investment Funds - Global High Yield Bond Fund A Acc Hedged,EUR,0.0107,No sector,Global,Bond
+LU0108416313,Jpmorgan Investment Funds - Global High Yield Bond Fund C Acc Hedged,EUR,0.006,No sector,Global,Bond
+LU0088298020,Jpmorgan Investment Funds - Global Select Equity Plus Fund A (Perf) Acc,USD,0.018,No sector,Global Advanced Markets,Equity
+LU0088298533,Jpmorgan Investment Funds - Global Select Equity Plus Fund C (Perf) Acc,USD,0.01,No sector,Global Advanced Markets,Equity
+LU0070217475,Jpmorgan Investment Funds - Global Select Equity Fund A Acc,USD,0.0181,No sector,Global Advanced Markets,Equity
+LU0088300024,Jpmorgan Investment Funds - Global Select Equity Fund C Acc,USD,0.0081,No sector,Global Advanced Markets,Equity
+LU0079556006,Jpmorgan Investment Funds - EuropeSelect Equity Fund A Acc,EUR,0.0172,No sector,Advanced Europe,Equity
+LU0083307867,Jpmorgan Investment Funds - Europe Select Equity Fund C Acc,EUR,0.0086,No sector,Advanced Europe,Equity
+LU0070177588,JPM Sterling Liquidity A Acc,GBP,0.0055,No sector,United Kingdom,Money Market
+LU0088883458,JPM Sterling Liquidity C Acc,GBP,0.0021,No sector,United Kingdom,Money Market
+LU0011815304,JPM US Dollar Liquidity A Acc,USD,0.0055,No sector,United States,Money Market
+LU0103813043,JPM US Dollar Liquidity B Acc,USD,0.0045,No sector,United States,Money Market
+LU0088277610,JPM US Dollar Liquidity C Acc,USD,0.0021,No sector,United States,Money Market
+LU0070214290,Jpmorgan Investment Funds - US Select Equity Fund A Acc,USD,0.0169,No sector,United States,Equity
+LU0087133087,Jpmorgan Investment Funds - US Select Equity Fund C Acc,USD,0.0083,No sector,United States,Equity
+LU0070215933,Jpmorgan InvestmentFunds - US Bond Fund A Acc,USD,0.011,No sector,United States,Bond
+LU0086741088,Jpmorgan Investment Funds - US Bond Fund C Acc,USD,0.006,No sector,United States,Bond
+LU0070214613,Jpmorgan Investment Funds - Japan Select Equity Fund A Acc,JPY,0.018,No sector,Japan,Equity
+LU0088302236,Jpmorgan Investment Funds - Japan Select Equity Fund C Acc,JPY,0.0095,No sector,Japan,Equity
+LU0103814108,JPM Euro Liquidity B Acc,EUR,0.0045,No sector,Eurozone,Money Market
+LU0115528548,Jpmorgan Investment Funds - Global Financials Fund A Acc,USD,0.018,Financials,Global,Equity
+LU0115530361,Jpmorgan Investment Funds - Global Financials Fund C Acc,USD,0.01,Financials,Global,Equity
+ES0138219037,FONCAIXA86 GR RF FI Acc,EUR,0.0126,No sector,Global,Bond
+LU0115096223,Jpmorgan Investment Funds - Global Select Equity Plus Fund D (Perf) Acc,USD,0.028,No sector,Global Advanced Markets,Equity
+LU0051129079,NN L AsiaIncome P Acc,USD,0.019,No sector,Asia Pacific Ex Japan,Equity
+LU0051129152,NN L Asia Income P Dis,USD,0.019,No sector,Asia Pacific Ex Japan,Equity
+LU0051128774,NN (L) Latin America Equity P Acc,USD,0.019,No sector,Emerging Latin America,Equity
+LU0051128931,NN (L) Latin America Equity P Dis,USD,0.019,No sector,Emerging Latin America,Equity
+LU0546916619,NN (L) Euromix Bond P Acc,EUR,0.0085,No sector,Europe,Bond
+LU0555024040,NN (L) Euromix Bond P Dis,EUR,0.0085,No sector,Europe,Bond
+LU0082087437,NN (L) International Czech Bond P Acc,CZK,0.013,No sector,Czech Republic,Bond
+LU0082087353,NN (L) International Czech Equity P Acc,CZK,0.024,No sector,Advanced Europe,Equity
+LU0082087510,NN (L) European Equity P Acc,EUR,0.0162,No sector,Advanced Europe,Equity
+LU0082087601,NN (L) European Equity P Dis,EUR,0.0162,No sector,Advanced Europe,Equity
+LU0082087783,NN (L) Japan Equity P Acc,JPY,0.016,No sector,Japan,Equity
+LU0082087866,NN (L) Japan Equity P Dis,JPY,0.016,No sector,Japan,Equity
+LU0082087940,NN (L) US Enhanced Core Concentrated Equity P Acc,USD,0.016,No sector,United States,Equity
+LU0082088088,NN (L) US Enhanced Core Concentrated Equity P Dis,USD,0.0159,No sector,United States,Equity
+LU0555026250,NN (L) Euro Credit I Acc,EUR,0.0049,No sector,Europe,Bond
+LU0095084066,NN (L) Euro Equity I Acc,EUR,0.007,No sector,Eurozone,Equity
+LU0095527585,NN (L) Euro Equity P Acc,EUR,0.0161,No sector,Eurozone,Equity
+LU0095527312,NN (L) Euro Equity P Dis,EUR,0.0161,No sector,Eurozone,Equity
+LU0109225184,NN (L) Emerging Europe Equity I Acc,EUR,0.0091,No sector,Emerging Europe,Equity
+LU0109225770,NN (L) Emerging Europe Equity P Acc,EUR,0.019,No sector,Emerging Europe,Equity
+LU0109226075,NN (L) Emerging Europe Equity P Dis,EUR,0.019,No sector,Emerging Europe,Equity
+LU0012181318,Parvest Equity USA Classic Acc,USD,0.018,No sector,United States,Equity
+LU0012181748,Parvest Equity Japan Classic Acc,JPY,0.0198,No sector,Japan,Equity
+LU0012182712,Parvest Japan Yen Bond Classic Acc,JPY,0.0113,No sector,Japan,Bond
+LU0038743380,Parvest Bond Absolute Return V700 Classic R Acc,USD,0.0147,No sector,Global,Bond
+LU0066794719,Parvest Equity Europe Mid Cap Classic Acc,EUR,0.0198,No sector,Advanced Europe,Equity
+LU0069970746,Parvest Equity Japan Small Cap Classic Acc,JPY,0.0238,No sector,Japan,Equity
+LU0083138064,Parvest Money Market Euro Classic Acc,EUR,0.002,No sector,Eurozone,Money Market
+LU0086913042,Parvest Convertible Bond Europe Classic Acc,EUR,0.0163,No sector,Advanced Europe,Other
+LU0089291651,Parvest Diversified Dynamic Classic Acc,EUR,0.0176,No sector,Global,Multi-Asset
+LU0089276934,Parvest Bond World Emerging Classic Acc,USD,0.0163,No sector,Global,Bond
+LU0099625146,Parvest Flexible Bond Europe Corporate Classic Acc,EUR,0.0128,No sector,Europe,Bond
+LU0095613583,Parvest Asian Convertible Bond Classic Acc,USD,0.0163,No sector,Emerging Asia Pacific,Other
+LU0075938133,Parvest Euro Bond Classic Acc,EUR,0.0113,No sector,Europe,Bond
+LU0012182399,Parvest Bond Usd Short DurationClassic Acc,USD,0.0083,No sector,United States,Bond
+LU0111548326,Parvest Bond Euro Government Classic Acc,EUR,0.0108,No sector,Europe,Bond
+LU0111482476,Parvest Equity Australia Classic Acc,AUD,0.0198,No sector,Australia,Equity
+LU0075933415,Parvest Equity Latin America Classic Acc,USD,0.0222,No sector,Emerging Latin America,Equity
+LU0111491469,Parvest Sustainable Equity High Dividend Europe Classic Acc,EUR,0.0198,No sector,Advanced Europe,Equity
+LU0086914362,Parvest Euro Medium Term Bond Classic Acc,EUR,0.0088,No sector,Europe,Bond
+LU0012186622,Parvest Money Market Usd Classic Acc,USD,0.0031,No sector,United States,Money Market
+LU0113302664,NN (L) Latin America Equity X Acc,USD,0.024,No sector,EmergingLatin America,Equity
+LU0113303043,NN L Asia Income X Acc,USD,0.024,No sector,Asia Pacific Ex Japan,Equity
+LU0113305253,NN (L) US Enhanced Core Concentrated Equity X Acc,USD,0.0209,No sector,United States,Equity
+LU0113305683,NN (L) Japan Equity X Acc,JPY,0.021,No sector,Japan,Equity
+LU0113304017,NN (L) European Equity X Acc,EUR,0.0212,No sector,Advanced Europe,Equity
+LU0546916882,NN (L) Euromix Bond X Acc,EUR,0.0095,No sector,Europe,Bond
+LU0113307978,NN (L) Euro Equity X Acc,EUR,0.0211,No sector,Eurozone,Equity
+LU0546918235,NN (L) Euro Credit P Acc,EUR,0.0095,No sector,Europe,Bond
+LU0546918409,NN (L) Euro Credit X Acc,EUR,0.012,No sector,Europe,Bond
+LU0120667240,NN (L) International CzechEquity P Dis,CZK,0.0239,No sector,Advanced Europe,Equity
+LU0120667166,NN (L) International Czech Bond P Dis,CZK,0.013,No sector,Czech Republic,Bond
+LU0113311731,NN (L) Emerging Europe Equity X Acc,EUR,0.024,No sector,Emerging Europe,Equity
+LU0546916379,NN (L) Emerging Markets Debt Local Currency P Acc,USD,0.013,No sector,Global,Bond
+LU0546916452,NN (L) Emerging Markets Debt Local Currency X Acc,USD,0.018,No sector,Global,Bond
+LU0091100890,CS (Lux) Portfolio Fund Yield EUR B Acc,EUR,0.013,No sector,Global,Multi-Asset
+LU0091101195,CS (Lux) Portfolio Fund Growth EUR B Acc,EUR,0.017,No sector,Global,Multi-Asset
+LU0078040838,CS (Lux) Portfolio Fund Balanced CHF B Acc,CHF,0.015,No sector,Global Advanced Markets,Multi-Asset
+LU0078041992,CS (Lux) Portfolio Fund Growth CHF B Acc,CHF,0.017,No sector,Global,Multi-Asset
+LU0078042453,CS (Lux) Portfolio Fund Growth USD B Acc,USD,0.017,Nosector,Global,Multi-Asset
+LU0100597805,Invesco European Bond Fund C Acc,EUR,0.005,No sector,Europe,Bond
+LU0102737490,Invesco Active Multi-Sector Credit Fund C Acc,EUR,0.005,Nosector,Global,ARIS
+LU0102737904,Invesco Euro Reserve Fund C Acc,EUR,0.0015,No sector,Eurozone,Money Market
+LU0100598282,Invesco Pan European Equity Fund C Acc,EUR,0.01,No sector,Advanced Europe,Equity
+LU0100598019,Invesco Pan European Small Cap Equity Fund C Acc,EUR,0.01,No sector,Advanced Europe,Equity
+LU0119747839,Invesco Real Return EUR Bond FundC Acc,EUR,0.005,No sector,Europe,Bond
+LU0119753134,Invesco Pan European Structured Equity Fund C (acc.) Acc,EUR,0.0107,No sector,Advanced Europe,Equity
+LU0109391861,Franklin U.S. Opportunities Fund A Acc,USD,0.01,No sector,United States,Equity
+LU0109391945,Franklin U.S. Opportunities Fund B Acc,USD,0.01,No sector,United States,Equity
+LU0109394709,Franklin Biotechnology Discovery Fund A Acc,USD,0.01,"Health Care/Pharmaceuticals, Biotechnology & Life Sciences/Biotechnology",Global,Equity
+LU0109394881,Franklin Biotechnology Discovery Fund B Acc,USD,0.01,"Health Care/Pharmaceuticals, Biotechnology & Life Sciences/Biotechnology",Global,Equity
+LU0122613499,Franklin Biotechnology Discovery Fund N Acc,USD,0.01,"Health Care/Pharmaceuticals, Biotechnology & Life Sciences/Biotechnology",Global,Equity
+LU0122612848,Franklin European Growth Fund A Acc,EUR,0.01,No sector,Advanced Europe,Equity
+LU0122612764,Franklin European Growth Fund N Acc,EUR,0.01,No sector,Advanced Europe,Equity
+LU0109395268,Franklin Euro High Yield Fund A Dis,EUR,0.008,No sector,Global,Bond
+LU0122613572,Franklin Euro High Yield Fund N Acc,EUR,0.008,No sector,Global,Bond
+LU0065014192,Franklin High Yield Fund A Dis,USD,0.008,No sector,Global,Bond
+LU0098868697,Franklin High Yield Fund B Dis,USD,0.008,No sector,Global,Bond
+LU0109402817,Franklin High Yield Fund N Acc,USD,0.008,No sector,Global,Bond
+LU0098860793,Franklin Income Fund A Dis,USD,0.0085,No sector,Global Advanced Markets,Multi-Asset
+LU0098864514,Franklin Income Fund N Acc,USD,0.0085,No sector,Global Advanced Markets,Multi-Asset
+LU0109392836,Franklin Technology Fund A Acc,USD,0.01,Information Technology,Global,Equity
+LU0109734730,Franklin Technology Fund B Acc,USD,0.01,Information Technology,Global,Equity
+LU0122613655,Franklin Technology Fund N Acc,USD,0.01,Information Technology,Global,Equity
+LU0116920520,Franklin Japan Fund A Acc,JPY,0.01,No sector,Japan,Equity
+LU0098860363,Franklin U.S. Equity Fund A Acc,USD,0.01,No sector,United States,Equity
+LU0098863896,Franklin U.S. Equity Fund B Acc,USD,0.01,No sector,United States,Equity
+LU0109402494,Franklin U.S. Equity Fund N Acc,USD,0.0065,No sector,United States,Equity
+LU0029872446,Franklin U.S. Government Fund A Dis,USD,0.0065,No sector,United States,Bond
+LU0098868937,Franklin U.S. Government Fund B Dis,USD,0.0065,No sector,United States,Bond
+LU0098867376,Franklin U.S. Government Fund N Dis,USD,0.01,No sector,United States,Bond
+LU0070302665,Franklin Mutual U.S. Value Fund A Dis,USD,0.01,No sector,Global Advanced Markets,Equity
+LU0098868267,Franklin Mutual U.S. Value Fund B Acc,USD,0.01,No sector,Global Advanced Markets,Equity
+LU0094041471,FranklinMutual U.S. Value Fund N Acc,USD,0.01,No sector,Global Advanced Markets,Equity
+LU0109981661,Franklin Mutual European Fund A Acc,USD,0.01,No sector,Advanced Europe,Equity
+LU0109981828,Franklin Mutual European Fund B Acc,USD,0.0135,No sector,Advanced Europe,Equity
+LU0029875118,Templeton Asian Growth Fund A Dis,USD,0.016,No sector,Emerging Asia Pacific,Equity
+LU0052750758,Templeton China Fund A Acc,USD,0.016,No sector,Greater China,Equity
+LU0078277505,Templeton Eastern Europe Fund A Acc,EUR,0.016,No sector,Emerging Europe,Equity
+LU0122613903,Templeton Eastern Europe Fund N Acc,EUR,0.01,No sector,Emerging Europe,Equity
+LU0029876355,Templeton Emerging Markets Bond Fund A Dis,USD,0.01,No sector,Global,Bond
+LU0099120023,Templeton Emerging Markets Bond Fund B Dis,USD,0.016,No sector,Global,Bond
+LU0029874905,Templeton Emerging Markets Fund A Dis,USD,0.016,No sector,Emerging Markets Global,Equity
+LU0098868341,Templeton Emerging Markets Fund B Acc,USD,0.016,No sector,Emerging Markets Global,Equity
+LU0109402221,Templeton Emerging Markets Fund N Acc,USD,0.003,No sector,Emerging Markets Global,Equity
+LU0093669546,Franklin Euro Government Bond Fund A Dis,EUR,0.005,No sector,Eurozone,Bond
+LU0093666013,Templeton Euroland Fund A Acc,EUR,0.01,No sector,Eurozone,Equity
+LU0029868097,Templeton European Fund A Dis,USD,0.01,No sector,Advanced Europe,Equity
+LU0052756011,Templeton Global Balanced Fund A Dis,USD,0.008,No sector,Global Advanced Markets,Multi-Asset
+LU0029873410,Templeton Global (Euro) Fund A Dis,EUR,0.01,No sector,Global Advanced Markets,Equity
+LU0029864427,Templeton Global Fund A Dis,USD,0.01,No sector,Global Advanced Markets,Equity
+LU0098868002,Templeton Global Fund B Acc,USD,0.0315,No sector,Global Advanced Markets,Equity
+LU0109401686,Templeton Global Fund N Acc,USD,0.0259,No sector,Global Advanced Markets,Equity
+LU0109395698,Templeton Global Fund I Acc,USD,0.007,No sector,Global Advanced Markets,Equity
+LU0029871042,Templeton Global Bond Fund A Dis,USD,0.0075,No sector,Global,Bond
+LU0122614208,Templeton Global Bond Fund N Acc,USD,0.0075,No sector,Global,Bond
+LU0029874061,Templeton Global Smaller Companies Fund A Dis,USD,0.01,No sector,Global,Equity
+LU0109401926,Templeton Global Smaller Companies Fund N Acc,USD,0.01,No sector,Global,Equity
+LU0114760746,Templeton Growth (Euro) Fund A Acc,EUR,0.01,No sector,Global Advanced Markets,Equity
+LU0122614380,Templeton Growth (Euro) Fund N Acc,EUR,0.01,No sector,Global Advanced Markets,Equity
+LU0114763096,Templeton Growth (Euro) Fund I Acc,EUR,0.007,No sector,Global Advanced Markets,Equity
+LU0057567074,Templeton Korea Fund A Acc,USD,0.016,No sector,South Korea,Equity
+LU0029865408,Templeton Latin America Fund A Dis,USD,0.014,No sector,Emerging Latin America,Equity
+LU0094040077,Templeton Latin America Fund N Acc,USD,0.014,No sector,Emerging Latin America,Equity
+LU0078275988,Templeton Thailand Fund A Acc,USD,0.016,No sector,Thailand,Equity
+LU0052767562,Franklin U.S. Dollar Liquid Reserve Fund A Dis,USD,0.003,No sector,UnitedStates,Money Market
+LU0098869075,Franklin U.S. Dollar Liquid Reserve Fund B Dis,USD,0.003,No sector,United States,Money Market
+LU0122614463,Franklin U.S. Dollar Liquid ReserveFund N Acc,USD,0.003,No sector,United States,Money Market
+LU0171305526,BGF World Gold Fund A Acc,EUR,0.0205,Materials/Materials/Metals & Mining,Global,Equity
+LU0172157280,BGF World Mining Fund A Acc,EUR,0.0206,Materials/Materials/Metals & Mining,Global,Equity
+LU0122376428,BGF World Energy Fund A Acc,USD,0.02057,Energy/Energy,Global,Equity
+LU0171301533,BGF World Energy Fund A Acc,EUR,0.0206,Energy/Energy,Global,Equity
+LU0122379950,BGF World Healthscience Fund A Acc,USD,0.018079,"Health Care/Pharmaceuticals, Biotechnology & Life Sciences",Global,Equity
+LU0171307068,BGF World Healthscience Fund A Acc,EUR,0.0181,"Health Care/Pharmaceuticals, Biotechnology & Life Sciences",Global,Equity
+LU0124384867,BGF New Energy Fund A Acc,USD,0.020648,Energy/Energy/Energy Equipment & Services,Global Advanced Markets,Equity
+LU0171289902,BGF New Energy Fund A Acc,EUR,0.0206,Energy/Energy/Energy Equipment & Services,Global Advanced Markets,Equity
+LU0114720955,FF - Global Health Care Fund A Dis,EUR,0.0192,Health Care,Global,Equity
+LU0119124781,FF - European Dynamic Growth Fund A Dis,EUR,0.0192,No sector,Advanced Europe,Equity
+LU0106252462,SISF Emerging Markets B Acc,USD,0.0248,No sector,Emerging Markets Global,Equity
+LU0106236424,SISF European Equity Yield B Acc,EUR,0.0247,No sector,Advanced Europe,Equity
+LU0106237075,SISF European Large Cap B Acc,EUR,0.0222,No sector,Advanced Europe,Equity
+LU0106239360,SISF Italian Equity B Acc,EUR,0.0221,No sector,Italy,Equity
+LU0106240376,SISF Japanese Equity B Acc,JPY,0.022,No sector,Japan,Equity
+LU0106259632,SISF Asian Opportunities B Acc,USD,0.0247,No sector,Asia Pacific Ex Japan,Equity
+LU0106244360,SISF Swiss Equity B Acc,CHF,0.0222,No sector,Switzerland,Equity
+LU0106245920,SISF UK Equity B Acc,GBP,0.022,No sector,United Kingdom,Equity
+LU0106261455,SISF US Large Cap B Acc,USD,0.0219,No sector,United States,Equity
+LU0106238040,SISF European Smaller Companies B Acc,EUR,0.0246,No sector,Advanced Europe,Equity
+LU0106243719,SISF Japanese Smaller Companies B Acc,JPY,0.0246,No sector,Japan,Equity
+LU0106261885,SISF US Smaller Companies B Acc,USD,0.0245,No sector,United States,Equity
+LU0106236002,SISF Euro Government Bond B Acc,EUR,0.011,No sector,Eurozone,Bond
+LU0106256968,SISF Global Bond B Acc,USD,0.0145,No sector,Global,Bond
+LU0106258667,SISF Global Corporate Bond B Acc,USD,0.0155,No sector,Global,Bond
+LU0106253270,SISF Emerging Markets Debt Abs Ret B Acc,USD,0.0236,No sector,Emerging Markets Global,ARIS
+LU0106260721,SISF US Dollar Bond B Acc,USD,0.0145,No sector,Global,Bond
+LU0106234726,SISF EURO Short Term Bond B Acc,EUR,0.0075,No sector,Global,Bond
+LU0106259129,SISF Latin American B Acc,USD,0.025,No sector,Emerging Latin America,Equity
+LU0106235376,SISF EURO Equity B Acc,EUR,0.0245,No sector,Eurozone,Equity
+LU0106250763,SISF Asian Bond Absolute Return B Acc,USD,0.0213,No sector,Asia Pacific,ARIS
+LU0106235707,SISF EURO Bond B Acc,EUR,0.0144,No sector,Global,Bond
+LU0106819104,SISF Emerging Europe B Acc,EUR,0.025,No sector,EmergingEurope,Equity
+LU0113257934,SISF EURO Corporate Bond B Acc,EUR,0.0154,No sector,Europe,Bond
+LU0111549480,Parvest Bond USA High Yield Classic Acc,USD,0.0158,No sector,United States,Bond
+LU0103815170,JPM Sterling Liquidity B Acc,GBP,0.0045,No sector,United Kingdom,Money Market
+LU0546915058,NN (L) Emerging Markets Debt Hard Currency P Acc Hedged,EUR,0.0153,No sector,Global,Bond
+LU0555020212,NN (L) Emerging Markets Debt Hard Currency P Dis Hedged,EUR,0.0153,No sector,Global,Bond
+LU0042743699,UBS (Lux) Strategy Sicav - Fixed Income CHF P Acc,CHF,0.0117,No sector,Global,Bond
+LU0042744747,UBS (Lux) Strategy Sicav - Fixed Income EUR P Acc,EUR,0.0116,No sector,Global,Bond
+LU0042745397,UBS (Lux) Strategy Sicav - Fixed Income USD P Acc,USD,0.0116,No sector,Global,Bond
+LU0044681806,UBS (Lux) Equity Fund - Australia P Acc,AUD,0.0157,No sector,Australia,Equity
+LU0043389872,UBS (Lux) Equity Fund - Canada P Acc,CAD,0.0157,No sector,Canada,Equity
+LU0049785107,UBS (Lux) Strategy Fund - Balanced P Dis,CHF,0.0169,No sector,Global Advanced Markets,Multi-Asset
+LU0049785289,UBS (Lux) Strategy Fund - Balanced P Acc,CHF,0.0169,No sector,Global Advanced Markets,Multi-Asset
+LU0049785362,UBS (Lux) Strategy Fund - Balanced P Dis,EUR,0.0169,No sector,Global Advanced Markets,Multi-Asset
+LU0049785446,UBS (Lux) Strategy Fund - Balanced P Acc,EUR,0.0169,No sector,Global Advanced Markets,Multi-Asset
+LU0049785529,UBS (Lux) Strategy Fund - Balanced P Dis,USD,0.0169,No sector,Global Advanced Markets,Multi-Asset
+LU0049785792,UBS (Lux) Strategy Fund - Balanced P Acc,USD,0.0169,No sector,Global Advanced Markets,Multi-Asset
+LU0049842692,UBS (Lux) Equity Fund - Mid Caps Europe P Acc,EUR,0.0199,No sector,Advanced Europe,Equity
+LU0049842262,UBS (Lux) Equity Fund - Mid Caps USA P Acc,USD,0.0186,No sector,United States,Equity
+LU0055660707,UBS (Lux) Emerging Economies Fund - Global Short Term (USD) P Acc,USD,0.0127,No sector,Emerging Markets Global,Bond
+LU0057954785,UBS (Lux) Medium Term Bond Fund P Dis,CHF,0.0096,No sector,Global,Bond
+LU0057954868,UBS (Lux) Medium Term Bond Fund P Acc,CHF,0.0097,No sector,Global,Bond
+LU0057957291,UBS (Lux) Medium Term Bond Fund P Acc,EUR,0.0096,No sector,Global,Bond
+LU0057957531,UBS (Lux) Medium Term Bond Fund P Acc,USD,0.0096,No sector,Global,Bond
+LU0066649970,UBS (Lux) Money Market Fund P Acc,AUD,0.0074,No sector,Global,Money Market
+LU0069152568,UBS (Lux) Equity Fund - Biotech P Acc,USD,0.021,"Health Care/Pharmaceuticals, Biotechnology & Life Sciences",United States,Equity
+LU0067412154,UBS (Lux) Equity Fund - China Opportunity P Acc,USD,0.0241,No sector,Greater China,Equity
+LU0070848113,UBS (Lux) Equity Sicav - US Opportunity (USD) P Acc,USD,0.021,No sector,United States,Equity
+LU0070848972,UBS (Lux) Bond Sicav High Yield P Acc,USD,0.0133,No sector,Global,Bond
+LU0071005408,UBS (Lux) Bond Fund - Global CHF P Dis,CHF,0.012,No sector,Global,Bond
+LU0071006638,UBS (Lux) Bond Fund - Global CHF P Acc,CHF,0.012,No sector,Global,Bond
+LU0071007289,UBS (Lux) Strategy Fund - EquityP Acc,CHF,0.0199,No sector,Global Advanced Markets,Equity
+LU0072913022,UBS (Lux) Equity Fund - Greater China P Acc,USD,0.0241,No sector,Greater China,Equity
+LU0073129545,UBS (Lux) Strategy Fund - Equity P Acc,USD,0.02,No sector,Global Advanced Markets,Equity
+LU0073129206,UBS (Lux) Strategy Fund - Equity P Acc,EUR,0.0201,No sector,Global Advanced Markets,Equity
+LU0074904532,UBS (Lux) Medium Term Bond Fund P Acc,AUD,0.0097,No sector,Global,Bond
+LU0074904888,UBS (Lux) Medium Term Bond Fund P Acc,GBP,0.0097,No sector,Global,Bond
+LU0006344922,UBS (Lux) Money Market Fund P Acc,EUR,0.0007,No sector,Global,Money Market
+LU0006277635,UBS (Lux) Money Market Fund P Acc,GBP,0.005,No sector,Global,Money Market
+LU0006277684,UBS (Lux) Money Market Fund P Acc,USD,0.0057,No sector,Global,Money Market
+LU0010001286,UBS (Lux) Bond Fund P Dis,CHF,0.0096,No sector,Global,Bond
+LU0010001369,UBS (Lux) Bond Fund P Acc,CHF,0.0096,No sector,Global,Bond
+LU0006391097,UBS (Lux) Equity Fund - European Opportunity P Acc,EUR,0.0211,No sector,Advanced Europe,Equity
+LU0033049577,UBS (Lux) Bond Fund EUR P Dis,EUR,0.0096,No sector,Global,Bond
+LU0033050237,UBS (Lux) Bond Fund EUR P Acc,EUR,0.0096,No sector,Global,Bond
+LU0010009420,UBS (Lux) Money Market Invest P Acc,EUR,0.0008,No sector,Global,Money Market
+LU0033502740,UBS (Lux) Money Market Fund P Acc,CHF,0.0007,No sector,Global,Money Market
+LU0033034892,UBS (Lux) StrategyFund - Growth P Acc,CHF,0.0187,No sector,Global Advanced Markets,Multi-Asset
+LU0033035352,UBS (Lux) Strategy Fund - Yield P Dis,CHF,0.015,No sector,Global Advanced Markets,Multi-Asset
+LU0033035865,UBS (Lux) Strategy Fund - Yield P Acc,CHF,0.015,No sector,Global Advanced Markets,Multi-Asset
+LU0033040600,UBS (Lux) Strategy Fund - Yield P Dis,EUR,0.0151,No sector,Global Advanced Markets,Multi-Asset
+LU0033040782,UBS (Lux) Strategy Fund - Yield P Acc,EUR,0.0151,No sector,Global Advanced Markets,Multi-Asset
+LU0033041590,UBS (Lux) Strategy Fund - Yield P Dis,USD,0.0151,No sector,Global Advanced Markets,Multi-Asset
+LU0033043885,UBS (Lux) Strategy Fund - Yield P Acc,USD,0.0151,No sector,Global Advanced Markets,Multi-Asset
+LU0035338242,UBS (Lux) Bond Fund P Dis,AUD,0.0096,No sector,Australia,Bond
+LU0035338325,UBS (Lux) Bond Fund P Acc,AUD,0.0096,No sector,Australia,Bond
+LU0035345882,UBS (Lux) Bond Fund P Dis,GBP,0.0096,No sector,Global,Bond
+LU0035346187,UBS (Lux) Bond Fund P Acc,GBP,0.0096,No sector,Global,Bond
+LU0035346344,UBS (Lux) Bond Fund USD P Dis,USD,0.0096,No sector,Global,Bond
+LU0035346773,UBS (Lux) Bond Fund USD P Acc,USD,0.0096,No sector,Global,Bond
+LU0074706499,UBS (Lux) Money Market Invest P Dis,EUR,0.0009,No sector,Global,Money Market
+LU0038842364,UBS (Lux) Equity Fund - Small Caps USA P Acc,USD,0.0187,No sector,United States,Equity
+LU0039343149,UBS (Lux) Strategy Fund - Fixed Income P Dis,CHF,0.0114,No sector,Global,Bond
+LU0039343222,UBS (Lux) Strategy Fund - Fixed Income P Acc,CHF,0.0114,No sector,Global,Bond
+LU0039343651,UBS (Lux) Strategy Fund - Fixed Income P Dis,EUR,0.0114,No sector,Global,Bond
+LU0039703029,UBS (Lux) Strategy Fund - Fixed Income P Acc,EUR,0.0114,No sector,Global,Bond
+LU0039703375,UBS (Lux) Strategy Fund - Fixed Income P Dis,USD,0.0114,No sector,Global,Bond
+LU0039703532,UBS (Lux) Strategy Fund - Fixed Income P Acc,USD,0.0114,No sector,Global,Bond
+LU0081259029,UBS (Lux) Equity Fund - Global Multi Technology P Acc,USD,0.0219,Information Technology,Global,Equity
+LU0085870433,UBS (Lux) Equity Fund - Euro Countries Opportunity P Acc,EUR,0.0187,No sector,Eurozone,Equity
+LU0098994485,UBS (Lux) Equity Fund - Japan P Acc,JPY,0.0158,No sector,Japan,Equity
+LU0098995292,UBS (Lux) Equity Fund - USA P Acc,USD,0.0186,No sector,United States,Equity
+LU0084219863,UBS (Lux) Emerging Ec. Fund - Global Bonds P Acc,USD,0.0188,No sector,Global,Bond
+LU0085953304,UBS (Lux) Equity Fund - Health Care P Acc,USD,0.021,Health Care,Global,Equity
+LU0085995990,UBS (Lux) Bond Fund - Euro High Yield P Dis,EUR,0.0132,No sector,Europe,Bond
+LU0086177085,UBS (Lux) Bond Fund - Euro High Yield P Acc,EUR,0.0132,No sector,Europe,Bond
+LU0108060624,UBS (Lux) Bond Fund - Convert Europe P Dis,EUR,0.0186,No sector,Advanced Europe,Other
+LU0106959298,UBS (Lux) Equity Fund - Asian Consumption P Acc,USD,0.0212,Consumer Staples,Asia Pacific Ex Japan,Equity
+LU0094864450,UBS (Lux) Medium Term Bond Fund P Dis,EUR,0.0097,No sector,Global,Bond
+LU0094864534,UBS (Lux) Medium Term BondFund P Dis,USD,0.0097,No sector,Global,Bond
+LU0115103029,Jpmorgan Investment Funds - Global High Yield Bond Fund D Acc Hedged,EUR,0.0148,No sector,Global,Bond
+LU0112675722,Edmond de Rothschild Fund - Convertible Europe All Cap A Acc,EUR,0.0135,No sector,Europe,Other
+LU0128532388,Franklin Income Fund B Dis,USD,0.0085,No sector,Global Advanced Markets,Multi-Asset
+LU0128529913,Franklin U.S. Government Fund N Acc,USD,0.0065,No sector,United States,Bond
+LU0128530259,Franklin Mutual European Fund N Acc,USD,0.01,No sector,Advanced Europe,Equity
+LU0128522157,Templeton Asian Growth Fund A Acc,USD,0.0135,No sector,Emerging Asia Pacific,Equity
+LU0128530416,Templeton Emerging Markets Bond Fund N Acc,USD,0.01,No sector,Global,Bond
+LU0128522744,Templeton Emerging Markets Fund A Acc,USD,0.016,No sector,Emerging Markets Global,Equity
+LU0128521001,Templeton Euroland Fund N Acc,EUR,0.01,No sector,Eurozone,Equity
+LU0128523122,Templeton European Fund A Acc,USD,0.01,No sector,Advanced Europe,Equity
+LU0128525689,Templeton Global Balanced Fund A Acc,USD,0.008,No sector,Global Advanced Markets,Multi-Asset
+LU0128531653,Templeton Global Balanced Fund B Acc,USD,0.008,No sector,Global Advanced Markets,Multi-Asset
+LU0128533279,Templeton Global Bond Fund B Dis,USD,0.0075,No sector,Global,Bond
+LU0128520375,Templeton Global (Euro) Fund A Acc,EUR,0.01,No sector,Global Advanced Markets,Equity
+LU0128525929,Templeton Global Fund A Acc,USD,0.0184,No sector,Global Advanced Markets,Equity
+LU0128526141,Templeton Global Smaller Companies Fund A Acc,USD,0.01,No sector,Global,Equity
+LU0128526570,Templeton Latin America Fund A Acc,USD,0.014,No sector,Emerging Latin America,Equity
+LU0128526901,Franklin U.S. Dollar Liquid Reserve Fund A Acc,USD,0.003,No sector,United States,Money Market
+LU0049015760,Aberdeen Liquidity Sterling A Acc,GBP,0.0023,No sector,United Kingdom,Money Market
+LU0049016909,Aberdeen Liquidity Canadian Dollar A Acc,CAD,0.0049,No sector,Canada,Money Market
+LU0090865873,Aberdeen Liquidity Euro A Acc,EUR,0.0006,No sector,Eurozone,Money Market
+LU0049014870,Aberdeen Liquidity Fund (lux) US Dollar A Acc,USD,0.0014,No sector,United States,Money Market
+ES0165237035,Mutuafondo F.I.M. A Acc,EUR,0.0026,No sector,Europe,Bond
+ES0165238033,Mutuafondo High Yield Acc,EUR,0.0027,No sector,Global,Bond
+ES0165240039,Mutuafondo Largo Plazo F.I.M. A Acc,EUR,0.0027,No sector,Europe,Bond
+ES0165193030,Mutuafondo Bolsa A Acc,EUR,0.0052,No sector,Global,Equity
+ES0165241037,Mutuafondo Valores A Acc,EUR,0.0052,No sector,Global,Equity
+ES0165194038,Mutuafondo Fondos Acc,EUR,0.0052,No sector,Global,Equity
+ES0141222036,Fondo Tecnológico Global Acc,EUR,0.0052,Information Technology,Global,Equity
+ES0131366033,Mutuafondo Gestión \xd3ptima Conservador FI Acc,EUR,0.0137,No sector,Global,Multi-Asset
+ES0165268030,Mutuafondo Gestión \xd3ptima Moderado FI. VL NAV A Acc Hedged,EUR,0.0176,No sector,Global,Multi-Asset
+ES0165181035,Mutuafondo Gestión \xd3ptima Dinámico FI Acc,EUR,0.0215,No sector,Global,Multi-Asset
+LU0115711235,Jpmorgan Investment Funds - Global Macro Balanced Fund D Acc,EUR,0.019,No sector,Global,ARIS
+LU0129338272,CS (Lux) Global Value Equity Fund B Acc,EUR,0.0192,No sector,Global,Equity
+GB0006778350,Boston Company US Opportunities Retail Dis,GBP,0.0168,No sector,United States,Equity
+GB0006778574,Newton Multi-Asset Balanced Fund Retail Dis,GBP,0.0161,No sector,Global Advanced Markets,Multi-Asset
+GB0006778681,Newton Continental European Fund Retail Dis,GBP,0.0166,No sector,Europe Ex UK,Equity
+GB0006779101,Insight Corporate Bond Fund Retail Dis,GBP,0.0136,No sector,Global,Bond
+GB0006779218,Newton UK Income  Fund Retail Dis,GBP,0.0161,No sector,United Kingdom,Equity
+GB0006779549,Newton UK Equity Retail Dis,GBP,0.0161,No sector,United Kingdom,Equity
+GB0006779655,Newton International Bond Fund Retail Dis,GBP,0.0114,No sector,Global,Bond
+GB0006779986,Newton Global Equity Retail Dis,GBP,0.0162,No sector,Global,Equity
+GB0006780323,Newton Real Return Fund Retail Dis,GBP,0.0111,No sector,Global,ARIS
+GB0006781289,Newton Oriental Fund Retail Dis,GBP,0.0171,No sector,Asia Pacific Ex Japan,Equity
+LU0119198637,NN (L) Banking & Insurance P Acc,USD,0.0181,Financials/Banks,Global,Equity
+LU0119199791,NN (L) Materials P Acc,USD,0.018,Materials/Materials,Global,Equity
+LU0119201019,NN (L) Energy P Acc,USD,0.018,Energy,Global,Equity
+LU0119205192,NN (L) European Real Estate P Acc,EUR,0.018,Real Estate/Real Estate,Europe,Equity
+LU0119207214,NN (L) Food & Beverages P Acc,USD,0.018,"Consumer Staples/Food, Beverage & Tobacco/Food Products",Global,Equity
+LU0119209004,NN (L) Health Care P Acc,USD,0.018,"Health Care/Pharmaceuticals, Biotechnology & Life Sciences",Global,Equity
+LU0119214772,NN (L) Prestige & Luxe P Acc,EUR,0.018,"Consumer Discretionary/Consumer Durables & Apparel/Textiles, Apparel & Luxury Goods",Global Advanced Markets,Equity
+LU0119215407,NN (L) Consumer Goods P Acc,USD,0.018,Consumer Discretionary/Consumer Durables & Apparel,Global,Equity
+LU0119216553,NN (L) Global Sustainable Equity P Acc,EUR,0.018,No sector,Global Advanced Markets,Equity
+LU0119216801,NN (L) Greater China Equity P Acc,USD,0.019,No sector,Greater China,Equity
+LU0119217528,NN (L) Telecom P Acc,USD,0.018,Telecommunication Services,Global,Equity
+LU0119219227,NN (L) Utilities P Acc,USD,0.0182,Utilities,Global,Equity
+LU0119195450,NN (L) Patrimonial Aggressive P Acc,EUR,0.0155,No sector,Global Advanced Markets,Multi-Asset
+LU0119195963,NN (L) Patrimonial Balanced P Acc,EUR,0.0152,No sector,Global Advanced Markets,Multi-Asset
+LU0119196938,NN (L) Patrimonial Defensive P Acc,EUR,0.015,No sector,Global Advanced Markets,Multi-Asset
+LU0119197159,NN (L) Patrimonial Balanced European Sustainable P Acc,EUR,0.0147,No sector,Advanced Europe,Multi-Asset
+LU0546914168,NN (L) Asian Debt Hard Currency P Acc,USD,0.0128,No sector,Global,Bond
+LU0546920488,NN (L) US Credit P Acc,USD,0.0095,No sector,United States,Bond
+LU0546914754,NN (L) US Factor Credit P Acc,USD,0.0085,No sector,United States,Bond
+LU0546917773,NN (L) Euro Fixed Income P Acc,EUR,0.0085,No sector,Europe,Bond
+LU0555025955,NN (L) Euro Short Duration P Acc,EUR,0.008,No sector,Eurozone,Bond
+LU0546921023,NN (L) Global Bond Opportunities P Acc,EUR,0.0095,No sector,Global,Bond
+LU0171298648,BGF US Small & Midcap Opportunities Fund A Acc,EUR,0.0181,No sector,United States,Equity
+LU0171285314,BGF Global Opportunities Fund A Acc,EUR,0.0182,No sector,Global Advanced Markets,Equity
+LU0171279184,BGF Euro Bond Fund A Acc,USD,0.0096,No sector,Europe,Bond
+LU0131126228,Franklin High Yield FundA Acc,USD,0.008,No sector,Global,Bond
+ES0165142037,Mutuafondo Corto Plazo F.I.M. A Acc,EUR,0.0027,No sector,Europe,Money Market
+LU0115104696,Jpmorgan Investment Funds - GlobalFinancials Fund D Acc,USD,0.028,Financials,Global,Equity
+LU0131210360,Parvest Bond Euro Corporate Classic Acc,EUR,0.0113,No sector,Europe,Bond
+LU0053666078,JPM Funds - AmericaEquity Fund A Dis,USD,0.0171,No sector,United States,Equity
+LU0117861202,JPM Funds - America Equity Fund D Acc,USD,0.0248,No sector,United States,Equity
+LU0119093705,Jpmorgan Funds - US Small Cap Growth Fund A Dis,GBP,0.018,No sector,United States,Equity
+LU0053671581,Jpmorgan Funds - US Small Cap Growth Fund A Dis,USD,0.018,No sector,United States,Equity
+LU0117881226,Jpmorgan Funds - US Small Cap Growth Fund D Acc,USD,0.0255,No sector,United States,Equity
+LU0051755006,Jpmorgan Funds - China Fund A Dis,USD,0.0177,No sector,China,Equity
+LU0117867159,Jpmorgan Funds - China Fund D Acc,USD,0.0278,No sector,China,Equity
+LU0051759099,Jpmorgan Funds - Emerging Europe Equity Fund A Dis,EUR,0.018,No sector,Emerging Europe,Equity
+LU0117895796,Jpmorgan Funds - Emerging Europe Equity Fund D Acc,EUR,0.028,No sector,Emerging Europe,Equity
+LU0074838565,Jpmorgan Funds - Emerging Europe Middle East And Africa Equity Fund A Dis,USD,0.018,No sector,Emerging Markets Global,Equity
+LU0117896091,Jpmorgan Funds - Emerging Europe Middle East And Africa Equity Fund D Acc,USD,0.028,No sector,Emerging Markets Global,Equity
+LU0119096559,Jpmorgan Funds - Emerging Markets Equity Fund A Dis,GBP,0.018,No sector,Emerging Markets Global,Equity
+LU0053685615,Jpmorgan Funds - Emerging Markets Equity Fund A Dis,USD,0.0175,No sector,Emerging Markets Global,Equity
+LU0117895366,Jpmorgan Funds - Emerging Markets Equity Fund D Acc,USD,0.0255,No sector,Emerging Markets Global,Equity
+LU0072845869,Jpmorgan Funds - Emerging Markets Debt Fund A Dis Hedged,EUR,0.0145,No sector,Emerging Markets Global,Bond
+LU0117898204,Jpmorgan Funds - Emerging Markets Debt Fund D Acc Hedged,EUR,0.0214,No sector,Emerging Markets Global,Bond
+LU0089640097,Jpmorgan Funds - Euroland Equity Fund A Dis,EUR,0.0177,No sector,Eurozone,Equity
+LU0117858166,Jpmorgan Funds - Euroland Equity Fund D Acc,EUR,0.0256,No sector,Eurozone,Equity
+LU0053685029,Jpmorgan Funds - Europe Equity Fund A Dis,EUR,0.0125,No sector,Advanced Europe,Equity
+LU0119078227,Jpmorgan Funds - Europe Equity Fund A Acc,USD,0.0129,No sector,Advanced Europe,Equity
+LU0117858596,Jpmorgan Funds - Europe Equity Fund D Acc,EUR,0.0203,No sector,Advanced Europe,Equity
+LU0119062650,Jpmorgan Funds - Europe Dynamic Fund A Dis,EUR,0.0174,No sector,Advanced Europe,Equity
+LU0119063039,Jpmorgan Funds - Europe Dynamic Fund D Acc,EUR,0.0276,No sector,Advanced Europe,Equity
+LU0119088705,Jpmorgan Funds - Europe Dynamic Fund A Dis,GBP,0.0181,No sector,Advanced Europe,Equity
+LU0091079839,Jpmorgan Funds - Europe High Yield Bond Fund A Dis,EUR,0.0095,No sector,Europe,Bond
+LU0117897578,Jpmorgan Funds - Europe High Yield Bond Fund D Acc,EUR,0.015,No sector,Europe,Bond
+LU0053687074,Jpmorgan Funds - Europe Small Cap Fund A Dis,EUR,0.0176,No sector,Advanced Europe,Equity
+LU0119093531,Jpmorgan Funds - Europe Small Cap Fund A Dis,GBP,0.0181,No sector,Advanced Europe,Equity
+LU0117859560,Jpmorgan Funds - Europe Small Cap Fund D Acc,EUR,0.028,No sector,Advanced Europe,Equity
+LU0107398538,Jpmorgan Funds - Europe Strategic Growth Fund A Dis,EUR,0.0177,No sector,Advanced Europe,Equity
+LU0119091675,Jpmorgan Funds - Europe Strategic Growth Fund A Dis,GBP,0.0181,No sector,Advanced Europe,Equity
+LU0117858679,Jpmorgan Funds - Europe Strategic Growth Fund D Acc,EUR,0.0252,No sector,Advanced Europe,Equity
+LU0107398884,Jpmorgan Funds - Europe Strategic Value Fund A Dis,EUR,0.0171,No sector,Advanced Europe,Equity
+LU0119092640,Jpmorgan Funds - Europe Strategic Value Fund A Dis,GBP,0.0181,No sector,Advanced Europe,Equity
+LU0117858752,Jpmorgan Funds - Europe Strategic Value Fund D Acc,EUR,0.0252,No sector,Advanced Europe,Equity
+LU0104030142,Jpmorgan Funds - Europe Dynamic Technologies Fund A Dis,EUR,0.0182,Information Technology,Europe,Equity
+LU0119095668,Jpmorgan Funds - Europe Dynamic Technologies Fund A Dis,GBP,0.0184,Information Technology,Europe,Equity
+LU0117884675,Jpmorgan Funds - Europe Dynamic Technologies Fund D Acc,EUR,0.0284,Information Technology,Europe,Equity
+LU0111753843,Jpmorgan Funds - Germany Equity Fund A Dis,EUR,0.0179,No sector,Germany,Equity
+LU0117860493,Jpmorgan Funds - Germany Equity Fund D Acc,EUR,0.0278,No sector,Germany,Equity
+LU0053696067,Jpmorgan Funds - Global Aggregate Bond Fund A Dis,USD,0.01,No sector,Global,Bond
+LU0117896927,Jpmorgan Funds - Global Aggregate Bond Fund D Acc,USD,0.014,No sector,Global,Bond
+LU0119067295,Jpmorgan Funds - Global Dynamic Fund A Dis,USD,0.0178,No sector,Global Advanced Markets,Equity
+LU0119067378,Jpmorgan Funds - Global Dynamic Fund D Acc,USD,0.0281,No sector,Global Advanced Markets,Equity
+LU0119090438,Jpmorgan Funds - Global Dynamic Fund A Dis,GBP,0.0181,No sector,Global Advanced Markets,Equity
+LU0089639750,Jpmorgan Funds - Global Unconstrained Equity Fund A Dis,USD,0.018,No sector,Global,Equity
+LU0117881903,Jpmorgan Funds - Global Unconstrained Equity Fund D Acc,USD,0.0255,No sector,Global,Equity
+LU0111753769,Jpmorgan Funds - Global Socially Responsible Fund A Dis,USD,0.018,No sector,Global,Equity
+LU0117882547,Jpmorgan Funds - Global Socially Responsible Fund D Acc,USD,0.028,No sector,Global,Equity
+LU0058908533,Jpmorgan Funds - India Fund A Dis,USD,0.018,No sector,India,Equity
+LU0117881739,Jpmorgan Funds - India Fund D Acc,USD,0.0259,No sector,India,Equity
+LU0119094695,Jpmorgan Funds - Japan Equity Fund A Dis,GBP,0.018,No sector,Japan,Equity
+LU0053696224,Jpmorgan Funds - Japan Equity Fund A Dis,USD,0.0174,No sector,Japan,Equity
+LU0117866185,Jpmorgan Funds - Japan Equity Fund D Acc,USD,0.0253,No sector,Japan,Equity
+LU0053687314,Jpmorgan Funds - Latin America Equity Fund A Dis,USD,0.018,No sector,Emerging Latin America,Equity
+LU0117896174,Jpmorgan Funds - Latin America Equity Fund D Acc,USD,0.028,No sector,Emerging Latin America,Equity
+LU0083573666,Jpmorgan Funds - Emerging Middle East Equity Fund A Dis,USD,0.018,No sector,Emerging Middle East and North Africa,Equity
+LU0117896257,Jpmorgan Funds - Emerging Middle East Equity Fund D Acc,USD,0.028,No sector,Emerging Middle East and North Africa,Equity
+LU0119094851,Jpmorgan Funds - Pacific Equity Fund A Dis,GBP,0.0181,No sector,Asia Pacific Ex Japan,Equity
+LU0052474979,Jpmorgan Funds - Pacific Equity Fund A Dis,USD,0.0175,No sector,Asia Pacific Ex Japan,Equity
+LU0117866854,Jpmorgan Funds - Pacific Equity Fund D Acc,USD,0.0256,No sector,Asia Pacific Ex Japan,Equity
+LU0053692744,Jpmorgan Funds - Sterling Bond Fund A Dis,GBP,0.011,No sector,UnitedKingdom,Bond
+LU0117897909,Jpmorgan Funds - Sterling Bond Fund D Acc,GBP,0.0165,No sector,United Kingdom,Bond
+LU0053697206,JPM - US Smaller Companies Fund A Dis,USD,0.0174,No sector,United States,Equity
+LU0117881572,JPM - US Smaller Companies Fund D Acc,USD,0.028,No sector,United States,Equity
+LU0119063898,Jpmorgan Funds - US Growth Fund A Dis,USD,0.0175,No sector,United States,Equity
+LU0119065240,Jpmorgan Funds - US Growth Fund D Acc,USD,0.0255,No sector,United States,Equity
+LU0119089182,Jpmorgan Funds - US Growth Fund A Dis,GBP,0.018,No sector,United States,Equity
+LU0119066131,Jpmorgan Funds - US Value Fund A Dis,USD,0.017,No sector,United States,Equity
+LU0119066727,Jpmorgan Funds - US Value Fund D Acc,USD,0.0246,No sector,United States,Equity
+LU0119089935,Jpmorgan Funds - US Value Fund A Dis,GBP,0.018,No sector,United States,Equity
+LU0119095742,Jpmorgan Funds - US Technology Fund A Dis,GBP,0.018,Information Technology,United States,Equity
+LU0082616367,Jpmorgan Funds - US Technology Fund A Dis,USD,0.0177,Information Technology,United States,Equity
+LU0117885052,Jpmorgan Funds - US Technology Fund D Acc,USD,0.028,Information Technology,United States,Equity
+LU0117838564,Jpmorgan Funds - US Aggregate Bond Fund A Dis,USD,0.011,No sector,United States,Bond
+LU0117838648,Jpmorgan Funds - US Aggregate Bond Fund D Acc,USD,0.0135,No sector,United States,Bond
+LU0117841782,Jpmorgan Funds - Greater ChinaFund A Dis,USD,0.0179,No sector,Greater China,Equity
+LU0117842087,Jpmorgan Funds - Hong Kong Fund A Dis,USD,0.0182,No sector,Hong Kong,Equity
+LU0117842756,Jpmorgan Funds - Singapore Fund A Dis,USD,0.018,No sector,Singapore,Equity
+LU0117843721,Jpmorgan Funds - Taiwan Fund D Acc,USD,0.028,No sector,Taiwan,Equity
+LU0117841949,Jpmorgan Funds - Greater China Fund D Acc,USD,0.0282,No sector,Greater China,Equity
+LU0117842327,Jpmorgan Funds - Hong Kong Fund D Acc,USD,0.0282,No sector,Hong Kong,Equity
+LU0117843135,Jpmorgan Funds -Singapore Fund D Acc,USD,0.028,No sector,Singapore,Equity
+LU0117843481,Jpmorgan Funds - Taiwan Fund A Dis,USD,0.018,No sector,Taiwan,Equity
+LU0117904457,Jpmorgan Funds - Euroland Equity Fund A Dis,USD,0.0181,No sector,Eurozone,Equity
+LU0117904960,Jpmorgan Funds - Europe Equity Fund A Dis,USD,0.013,No sector,Advanced Europe,Equity
+LU0117844026,Jpmorgan Funds - Asia Pacific Income Fund A Dis,USD,0.0178,No sector,Asia Pacific,Multi-Asset
+LU0117844612,Jpmorgan Funds - Asia Pacific Income Fund D Acc,USD,0.0224,No sector,Asia Pacific,Multi-Asset
+LU0029761706,UBAM - Dynamic Euro Bond A Acc,EUR,0.0054,No sector,Europe,Bond
+LU0103636592,UBAM - Dynamic Euro Bond A Dis,EUR,0.0053,No sector,Europe,Bond
+LU0034172394,UBAM - Asia Equity A Acc,USD,0.0241,No sector,Asia Pacific Ex Japan,Equity
+LU0029761532,UBAM - Dynamic Us Dollar Bond A Acc,USD,0.0065,No sector,United States,Bond
+LU0103636329,UBAM - Dynamic Us Dollar Bond A Dis,USD,0.0065,No sector,United States,Bond
+LU0103634621,UBAM - Euro Bond A Dis,EUR,0.0095,No sector,Eurozone,Bond
+LU0073503921,UBAM - Swiss Equity A Acc,CHF,0.0136,No sector,Switzerland,Equity
+LU0103636758,UBAM - Global Aggregate Bond A Dis Hedged,CHF,0.0096,No sector,Global,Bond
+LU0095453105,UBAM - Corporate Euro Bond A Acc,EUR,0.0093,No sector,Europe,Bond
+LU0103635438,UBAM - Corporate Euro Bond A Dis,EUR,0.0094,No sector,Europe,Bond
+LU0131126574,Franklin Euro High Yield Fund A Acc,EUR,0.008,No sector,Global,Bond
+LU0111482989,Parvest Equity Australia N Acc,AUD,0.0273,No sector,Australia,Equity
+LU0111493325,Parvest Sustainable Equity High Dividend Europe N Acc,EUR,0.0273,No sector,Advanced Europe,Equity
+LU0107059080,Parvest Equity Europe Mid Cap N Acc,EUR,0.0273,No sector,Advanced Europe,Equity
+LU0107049875,Parvest Equity Japan N Acc,JPY,0.0273,No sector,Japan,Equity
+LU0107058785,Parvest Equity Japan Small Cap N Acc,JPY,0.0312,No sector,Japan,Equity
+LU0107061904,Parvest Equity Latin America N Acc,USD,0.0297,No sector,Emerging Latin America,Equity
+LU0107048042,Parvest Equity USA N Acc,USD,0.0245,No sector,United States,Equity
+LU0107087610,Parvest Asian Convertible Bond NAcc,USD,0.0223,No sector,Emerging Asia Pacific,Other
+LU0107087537,Parvest Convertible Bond Europe N Acc,EUR,0.0213,No sector,Advanced Europe,Other
+LU0107088931,Parvest Diversified Dynamic N Acc,EUR,0.0251,No sector,Global,Multi-Asset
+LU0107086729,Parvest Bond World Emerging N Acc,USD,0.0213,No sector,Global,Bond
+LU0111549134,Parvest Bond Euro Government N Acc,EUR,0.0158,No sector,Europe,Bond
+LU0107072935,Parvest Euro Bond N Acc,EUR,0.0163,No sector,Europe,Bond
+LU0131211418,Parvest Bond Euro Corporate N Acc,EUR,0.0162,No sector,Europe,Bond
+LU0107087297,Parvest Flexible Bond Europe Corporate N Acc,EUR,0.0178,No sector,Europe,Bond
+LU0107086646,Parvest Euro Medium Term Bond N Acc,EUR,0.0138,No sector,Europe,Bond
+LU0107069048,Parvest Bond Usd Short Duration N Acc,USD,0.0117,No sector,United States,Bond
+LU0111550652,Parvest Bond USA High Yield N Acc,USD,0.0208,No sector,United States,Bond
+LU0107069717,Parvest Japan Yen Bond N Acc,JPY,0.0162,No sector,Japan,Bond
+LU0129412341,Jpmorgan Funds - Global Convertibles Fund (Eur) A Dis,EUR,0.0147,No sector,Global,Other
+LU0129412937,Jpmorgan Funds - Global Convertibles Fund (Eur) D Acc,EUR,0.0198,No sector,Global,Other
+LU0090830497,BGF Emerging Europe Fund E Acc,EUR,0.0266,No sector,Emerging Europe,Equity
+LU0171276081,BGF Emerging Markets Fund E Acc,EUR,0.0234,No sector,Emerging Markets Global,Equity
+LU0093503141,BGF Euro-Markets Fund E Acc,EUR,0.0231,No sector,Eurozone,Equity
+LU0093504115,BGF Euro Short Duration Bond Fund E Acc,EUR,0.013915,No sector,Eurozone,Bond
+LU0090830901,BGF European Fund E Acc,EUR,0.0231,No sector,Advanced Europe,Equity
+LU0090830810,BGF Euro Bond Fund E Acc,EUR,0.0146,No sector,Europe,Bond
+LU0093505864,BGF Global High Yield Bond Fund E Acc Hedged,EUR,0.0196,No sector,Global,Bond
+LU0171285157,BGF Global High Yield Bond Fund E Acc,USD,0.019594,No sector,Global,Bond
+LU0171285587,BGF Global Opportunities Fund E Acc,EUR,0.0231,No sector,Global Advanced Markets,Equity
+LU0171289225,BGF Japan Small & Midcap Opportunities E Acc,EUR,0.0231,No sector,Japan,Equity
+LU0090841692,BGF Japan Small & Midcap Opportunities E Acc,USD,0.0231,No sector,Japan,Equity
+LU0171290074,BGF New Energy Fund E Acc,EUR,0.0256,Energy/Energy/Energy Equipment & Services,Global Advanced Markets,Equity
+LU0090841858,BGF US Small& Midcap Opportunities Fund E Acc,USD,0.023069,No sector,United States,Equity
+LU0171298721,BGF US Small & Midcap Opportunities Fund E Acc,EUR,0.0231,No sector,United States,Equity
+LU0090845412,BGF Global Government Bond Fund E Acc,USD,0.01465,No sector,Global,Bond
+LU0171304552,BGF World Energy Fund E Acc,EUR,0.0256,Energy/Energy,Global,Equity
+LU0171306680,BGF World Gold Fund E Acc,EUR,0.0255,Materials/Materials/Metals & Mining,Global,Equity
+LU0171309270,BGF World Healthscience Fund E Acc,EUR,0.0231,"Health Care/Pharmaceuticals, Biotechnology & Life Sciences",Global,Equity
+LU0172157363,BGF World Mining Fund E Acc,EUR,0.0256,Materials/Materials/Metals & Mining,Global,Equity
+LU0119205275,NN (L) European Real Estate P Dis,EUR,0.018,Real Estate/Real Estate,Europe,Equity
+LU0119217874,NN (L) Telecom P Dis,USD,0.018,Telecommunication Services,Global,Equity
+LU0119209269,NN (L) Health Care P Dis,USD,0.018,"Health Care/Pharmaceuticals, Biotechnology & Life Sciences",Global,Equity
+LU0119207487,NN (L) Food & Beverages P Dis,USD,0.018,"Consumer Staples/Food, Beverage& Tobacco/Food Products",Global,Equity
+LU0119215662,NN (L) Consumer Goods P Dis,USD,0.018,Consumer Discretionary/Consumer Durables & Apparel,Global,Equity
+LU0119198710,NN (L) Banking & Insurance P Dis,USD,0.0181,Financials/Banks,Global,Equity
+LU0119201282,NN (L) Energy P Dis,USD,0.018,Energy,Global,Equity
+LU0119199957,NN (L) Materials P Dis,USD,0.018,Materials/Materials,Global,Equity
+LU0119215076,NN (L) Prestige & Luxe P Dis,EUR,0.018,"Consumer Discretionary/Consumer Durables & Apparel/Textiles, Apparel & Luxury Goods",Global Advanced Markets,Equity
+LU0119200557,NN (L) Information Technology P Dis,USD,0.018,Information Technology/Software & Services/Internet Software & Services,Global,Equity
+LU0119200128,NN (L) Information Technology P Acc,USD,0.018,Information Technology/Software & Services/Internet Software & Services,Global,Equity
+LU0119219573,NN (L) Utilities P Dis,USD,0.0182,Utilities,Global,Equity
+LU0127786431,NN (L) Euro High Dividend P Acc,EUR,0.0182,No sector,Eurozone,Equity
+LU0127786605,NN (L) Euro High Dividend P Dis,EUR,0.0182,No sector,Eurozone,Equity
+LU0119217288,NN (L) Greater China Equity P Dis,USD,0.0189,No sector,Greater China,Equity
+LU0119216710,NN (L) Global Sustainable Equity P Dis,EUR,0.018,No sector,Global Advanced Markets,Equity
+LU0119196268,NN (L) Patrimonial Balanced P Dis,EUR,0.0152,No sector,Global Advanced Markets,Multi-Asset
+LU0119197076,NN (L) Patrimonial Defensive P Dis,EUR,0.015,No sector,Global Advanced Markets,Multi-Asset
+LU0119195708,NN (L) Patrimonial Aggressive P Dis,EUR,0.0155,No sector,Global Advanced Markets,Multi-Asset
+LU0119197233,NN (L) Patrimonial Balanced European Sustainable P Dis,EUR,0.0147,No sector,Advanced Europe,Multi-Asset
+LU0555019800,NN (L) US Factor Credit P Dis,USD,0.0085,No sector,United States,Bond
+LU0555027902,NN (L) Global Bond Opportunities P Dis,EUR,0.0094,No sector,Global,Bond
+LU0555019396,NN (L) Asian Debt Hard Currency P Dis,USD,0.0128,No sector,Global,Bond
+LU0555023406,NN (L) Euro Fixed Income P Dis,EUR,0.0085,No sector,Europe,Bond
+LU0555027654,NN (L) US Credit P Dis,USD,0.0095,No sector,United States,Bond
+LU0546918664,NN (L) Global High Yield P Acc Hedged,EUR,0.0132,No sector,Global,Bond
+LU0555026763,NN (L) Global High Yield P Dis Hedged,EUR,0.0132,No sector,Global,Bond
+LU0106252546,SISF Emerging Markets C Acc,USD,0.0108,No sector,Emerging Markets Global,Equity
+LU0106236267,SISF European Equity Yield A Acc,EUR,0.0187,No sector,Advanced Europe,Equity
+LU0106236770,SISFEuropean Equity Yield C Acc,EUR,0.0108,No sector,Advanced Europe,Equity
+LU0106236937,SISF European Large Cap A Acc,EUR,0.0162,No sector,Advanced Europe,Equity
+LU0106237315,SISF European Large Cap C Acc,EUR,0.0107,No sector,Advanced Europe,Equity
+LU0106255481,SISF QEP Global Core C Acc,USD,0.0042,No sector,Global Advanced Markets,Equity
+LU0106238719,SISF Italian Equity A Acc,EUR,0.0161,No sector,Italy,Equity
+LU0106239527,SISF Italian Equity C Acc,EUR,0.0106,No sector,Italy,Equity
+LU0106239873,SISF Japanese Equity A Acc,JPY,0.016,No sector,Japan,Equity
+LU0106240533,SISF Japanese Equity C Acc,JPY,0.0105,No sector,Japan,Equity
+LU0106259558,SISF Asian Opportunities A Acc,USD,0.0187,No sector,Asia Pacific Ex Japan,Equity
+LU0106259988,SISF Asian Opportunities C Acc,USD,0.0107,No sector,Asia Pacific Ex Japan,Equity
+LU0106244287,SISF Swiss Equity A Acc,CHF,0.0162,No sector,Switzerland,Equity
+LU0106244444,SISF Swiss Equity C Acc,CHF,0.0107,No sector,Switzerland,Equity
+LU0106244527,SISF UK Equity A Acc,GBP,0.016,No sector,United Kingdom,Equity
+LU0106246225,SISF UK Equity C Acc,GBP,0.0105,No sector,United Kingdom,Equity
+LU0106261372,SISF US Large Cap A Acc,USD,0.0159,No sector,United States,Equity
+LU0106261539,SISF US Large Cap C Acc,USD,0.0104,No sector,United States,Equity
+LU0106237406,SISF European Smaller Companies A Acc,EUR,0.0186,No sector,Advanced Europe,Equity
+LU0106238552,SISF European Smaller Companies C Acc,EUR,0.0131,No sector,Advanced Europe,Equity
+LU0106242315,SISF Japanese Smaller Companies A Acc,JPY,0.0186,No sector,Japan,Equity
+LU0106243982,SISFJapanese Smaller Companies C Acc,JPY,0.0131,No sector,Japan,Equity
+LU0106261612,SISF US Smaller Companies A Acc,USD,0.0185,No sector,United States,Equity
+LU0106262180,SISF US Smaller Companies C Acc,USD,0.013,No sector,United States,Equity
+LU0106235962,SISF Euro Government Bond A Acc,EUR,0.006,No sector,Eurozone,Bond
+LU0106236184,SISF Euro Government Bond C Acc,EUR,0.0035,No sector,Eurozone,Bond
+LU0106256372,SISF Global Bond A Acc,USD,0.0095,No sector,Global,Bond
+LU0106257180,SISF Global Bond C Acc,USD,0.0065,No sector,Global,Bond
+LU0106258311,SISF Global Corporate Bond A Acc,USD,0.0105,No sector,Global,Bond
+LU0106258741,SISF Global Corporate Bond C Acc,USD,0.0065,No sector,Global,Bond
+LU0106253197,SISF Emerging Markets Debt Abs Ret A Acc,USD,0.0186,No sector,Emerging Markets Global,ARIS
+LU0106253437,SISF Emerging Markets Debt Abs Ret C Acc,USD,0.0121,No sector,Emerging Markets Global,ARIS
+LU0106260564,SISF US Dollar Bond A Acc,USD,0.0095,No sector,Global,Bond
+LU0106261026,SISF US Dollar Bond C Acc,USD,0.0065,No sector,Global,Bond
+LU0106234643,SISF EURO Short Term Bond A Acc,EUR,0.0065,No sector,Global,Bond
+LU0106234999,SISF EURO Short Term Bond C Acc,EUR,0.0033,No sector,Global,Bond
+LU0106259046,SISF Latin American A Acc,USD,0.019,No sector,Emerging Latin America,Equity
+LU0106259392,SISF Latin American C Acc,USD,0.0135,No sector,Emerging Latin America,Equity
+LU0106235293,SISF EURO Equity A Acc,EUR,0.0185,No sector,Eurozone,Equity
+LU0106235459,SISF EURO Equity C Acc,EUR,0.0105,No sector,Eurozone,Equity
+LU0106250508,SISF Asian Bond Absolute Return A Acc,USD,0.0163,No sector,Asia Pacific,ARIS
+LU0106251068,SISF Asian Bond Absolute Return C Acc,USD,0.0108,No sector,Asia Pacific,ARIS
+LU0106235533,SISF EURO Bond A Acc,EUR,0.0094,No sector,Global,Bond
+LU0106235889,SISF EURO Bond C Acc,EUR,0.0064,No sector,Global,Bond
+LU0106817157,SISF Emerging Europe A Acc,EUR,0.019,No sector,Emerging Europe,Equity
+LU0106820292,SISF Emerging Europe C Acc,EUR,0.0135,No sector,Emerging Europe,Equity
+LU0113257694,SISF EURO Corporate Bond A Acc,EUR,0.0104,No sector,Europe,Bond
+LU0113258742,SISF EURO Corporate Bond C Acc,EUR,0.0064,No sector,Europe,Bond
+LU0106252389,SISF Emerging Markets A Acc,USD,0.0188,No sector,Emerging Markets Global,Equity
+LU0132282301,FF -US High Yield Fund A Dis,USD,0.0139,No sector,United States,Bond
+LU0171293177,BGF United Kingdom Fund A Acc,EUR,0.0181,No sector,United Kingdom,Equity
+LU0171293250,BGF United Kingdom Fund E Acc,EUR,0.0231,No sector,United Kingdom,Equity
+LU0136043394,SISF EURO Liquidity A Acc,EUR,0.0029,No sector,Eurozone,Money Market
+LU0136043550,SISF EURO LiquidityB Acc,EUR,0.0029,No sector,Eurozone,Money Market
+LU0136043634,SISF EURO Liquidity C Acc,EUR,0.0027,No sector,Eurozone,Money Market
+LU0135992385,SISF EURO Liquidity A1 Acc,EUR,0.0029,No sector,Eurozone,Money Market
+LU0115104423,Jpmorgan Investment Funds - US Bond Fund D Acc,USD,0.0135,No sector,United States,Bond
+LU0047473722,HSBC GIF European EquityP Dis,EUR,0.0135,No sector,Advanced Europe,Equity
+LU0099919721,HSBC GIF Global Emerging Markets Bond P Dis,USD,0.0135,No sector,Global,Bond
+LU0128498267,Pictet-Short-Term Money Market CHF P Acc,CHF,0.00134,No sector,Switzerland,Money Market
+LU0128498697,Pictet-Short-Term Money Market CHF P Dis,CHF,0.00134,No sector,Switzerland,Money Market
+LU0128499158,Pictet-Short-Term Money Market CHF I Acc,CHF,0.00124,No sector,Switzerland,Money Market
+LU0128496485,Pictet-Short-Term Money Market USD P Acc,USD,0.00268,No sector,Global,Money Market
+LU0128497293,Pictet-Short-Term Money Market USD P Dis,USD,0.00268,No sector,Global,Money Market
+LU0128497707,Pictet-Short-Term Money Market USD I Acc,USD,0.00182,No sector,Global,Money Market
+LU0128497889,Pictet-Short-Term Money Market USD R Acc,USD,0.00437,No sector,Global,Money Market
+LU0128494191,Pictet-Short-Term Money Market EUR P Acc,EUR,0.00225,No sector,Europe,Money Market
+LU0128494514,Pictet-Short-Term Money Market EUR P Dis,EUR,0.00224,No sector,Europe,Money Market
+LU0128494944,Pictet-Short-Term Money MarketEUR I Acc,EUR,0.00144,No sector,Europe,Money Market
+LU0128495834,Pictet-Short-Term Money Market EUR R Acc,EUR,0.00355,No sector,Europe,Money Market
+LU0128489514,Pictet-USD Government Bonds I Acc,USD,0.00393,No sector,United States,Bond
+LU0128488383,Pictet-USD Government Bonds P Acc,USD,0.00591,No sector,United States,Bond
+LU0128488896,Pictet-USD Government Bonds P Dis,USD,0.00591,No sector,United States,Bond
+LU0128489860,Pictet-USD Government Bonds R Acc,USD,0.00791,No sector,United States,Bond
+LU0128490280,Pictet-EUR Bonds P Acc,EUR,0.00901,No sector,Global,Bond
+LU0128490793,Pictet-EUR Bonds P Dis,EUR,0.00901,No sector,Global,Bond
+LU0128492732,Pictet-EUR Bonds R Acc,EUR,0.01201,No sector,Global,Bond
+LU0128492062,Pictet-EUR Bonds I Acc,EUR,0.00601,No sector,Global,Bond
+LU0128470845,Pictet-EUR Corporate Bonds P Acc,EUR,0.01012,No sector,Europe,Bond
+LU0128471819,Pictet-EUR Corporate Bonds P Dis,EUR,0.01012,No sector,Europe,Bond
+LU0128472205,Pictet-EUR Corporate Bonds I Acc,EUR,0.00612,No sector,Europe,Bond
+LU0128473435,Pictet-EUR Corporate Bonds R Acc,EUR,0.01362,No sector,Europe,Bond
+LU0128467544,Pictet-Global Emerging Debt P Acc,USD,0.01379,No sector,Global,Bond
+LU0128468609,Pictet-Global Emerging Debt P Dis,USD,0.01379,No sector,Global,Bond
+LU0128469243,Pictet-Global Emerging Debt I Acc,USD,0.0083,No sector,Global,Bond
+LU0128469839,Pictet-Global Emerging Debt R Acc,USD,0.01879,No sector,Global,Bond
+LU0133806785,Pictet-EUR High Yield I Acc,EUR,0.0083,No sector,Europe,Bond
+LU0133807163,Pictet-EUR High Yield P Acc,EUR,0.01379,No sector,Europe,Bond
+LU0133807593,Pictet-EUR High Yield P Dis,EUR,0.0138,No sector,Europe,Bond
+LU0133805464,Pictet-Global Bonds I Acc,USD,0.00565,No sector,Global,Bond
+LU0133805894,Pictet-GlobalBonds P Acc,USD,0.00916,No sector,Global,Bond
+LU0133805977,Pictet-Global Bonds P Dis,USD,0.00916,No sector,Global,Bond
+LU0133806512,Pictet-Global Bonds R Acc,USD,0.01216,No sector,Global,Bond
+LU0130728842,Pictet-Emerging Europe P Acc,EUR,0.01796,No sector,Emerging Europe,Equity
+LU0131718073,Pictet-Emerging Europe I Acc,EUR,0.01099,No sector,EmergingEurope,Equity
+LU0131719634,Pictet-Emerging Europe R Acc,EUR,0.02395,No sector,Emerging Europe,Equity
+LU0131725870,Pictet-Emerging Markets I Acc,USD,0.01046,No sector,Emerging Markets Global,Equity
+LU0130729220,Pictet-Emerging Markets P Acc,USD,0.01745,No sector,Emerging Markets Global,Equity
+LU0131726092,Pictet-Emerging Markets R Acc,USD,0.02345,No sector,Emerging Markets Global,Equity
+LU0130732364,Pictet-Small Cap Europe P Acc,EUR,0.01809,No sector,Advanced Europe,Equity
+LU0131724808,Pictet-Small Cap Europe I Acc,EUR,0.01011,No sector,Advanced Europe,Equity
+LU0131725367,Pictet-Small Cap Europe R Acc,EUR,0.02507,No sector,Advanced Europe,Equity
+LU0130731986,Pictet-European Equity Selection P Acc,EUR,0.01427,No sector,Advanced Europe,Equity
+LU0130732109,Pictet-European Equity Selection R Acc,EUR,0.01925,No sector,Advanced Europe,Equity
+LU0130731390,Pictet-Europe IndexP Acc,EUR,0.00415,No sector,Advanced Europe,Equity
+LU0130731713,Pictet-Europe Index R Acc,EUR,0.00714,No sector,Advanced Europe,Equity
+LU0130732877,Pictet-USA Index P Acc,USD,0.00442,No sector,United States,Equity
+LU0130733172,Pictet-USA Index R Acc,USD,0.00742,No sector,United States,Equity
+LU0070964530,Pictet-Indian Equities P Acc,USD,0.0176,No sector,India,Equity
+LU0095053426,Pictet-Japanese Equity Opportunitties P Acc,JPY,0.01565,No sector,Japan,Equity
+LU0112497283,Pictet-Biotech I Acc,USD,0.01191,"Health Care/Pharmaceuticals, Biotechnology & Life Sciences",Global,Equity
+LU0090689299,Pictet-Biotech P Acc,USD,0.0199,"Health Care/Pharmaceuticals, Biotechnology & Life Sciences",Global,Equity
+LU0112497440,Pictet-Biotech R Acc,USD,0.02689,"Health Care/Pharmaceuticals, Biotechnology & Life Sciences",Global,Equity
+LU0101689882,Pictet-Digital I Acc,USD,0.01203,Information Technology/Software & Services/Internet Software & Services,Global,Equity
+LU0101692670,Pictet-Digital P Acc,USD,0.02002,Information Technology/Software & Services/Internet Software & Services,Global,Equity
+LU0101692753,Pictet-Digital R Acc,USD,0.02702,Information Technology/Software & Services/Internet Software & Services,Global,Equity
+LU0104884605,Pictet-Water I Acc,EUR,0.01201,Utilities/Utilities/Water Utilities,Global Advanced Markets,Equity
+LU0104884860,Pictet-Water P Acc,EUR,0.02001,Utilities/Utilities/Water Utilities,Global Advanced Markets,Equity
+LU0104885248,Pictet-Water R Acc,EUR,0.027,Utilities/Utilities/Water Utilities,Global Advanced Markets,Equity
+LU0568620560,Amundi Funds Cash Euro A Acc,EUR,0.0033,No sector,Eurozone,Money Market
+LU0085424652,Pioneer Funds US Research E Acc,EUR,0.0169,No sector,United States,Equity
+LU0119435195,Pioneer Funds US Research I Acc,EUR,0.007,No sector,United States,Equity
+LU0119428653,Pioneer Funds US Research C Acc,EUR,0.0243,No sector,United States,Equity
+LU0119372174,Pioneer Funds US Research A Acc,EUR,0.0168,No sector,United States,Equity
+LU0085425469,Pioneer Funds Emerging Europe and Mediterr Equit E Acc,EUR,0.03,No sector,Emerging Europe,Equity
+LU0119432416,Pioneer Funds Emerging Europe and Mediterr Equit I Acc,EUR,0.0099,No sector,Emerging Europe,Equity
+LU0119421724,Pioneer Funds Emerging Europe and Mediterr Equit C Acc,EUR,0.0282,No sector,Emerging Europe,Equity
+LU0119336021,Pioneer Funds Emerging Europe and Mediterr Equit A Acc,EUR,0.0212,No sector,Emerging Europe,Equity
+LU0119403581,Pioneer Funds US Dollar Short-Term A Acc,EUR,0.0104,No sector,United States,Bond
+LU0119440518,Pioneer Funds US Dollar Short-Term C Acc,EUR,0.0204,No sector,United States,Bond
+LU0119366952,Pioneer Funds Top European Players A Acc,EUR,0.0172,No sector,Advanced Europe,Equity
+LU0119426103,Pioneer Funds Top European Players C Acc,EUR,0.0272,No sector,Advanced Europe,Equity
+LU0111921499,Pioneer Funds Top European Players E Acc,EUR,0.0173,No sector,Advanced Europe,Equity
+LU0119402427,Pioneer Funds US High Yield Corp Bond A Acc,EUR,0.0153,No sector,United States,Bond
+LU0119436599,Pioneer Funds US High Yield Corp Bond I Acc,EUR,0.0055,No sector,United States,Bond
+LU0119438884,Pioneer Funds US High Yield Corp Bond C Acc,EUR,0.0238,No sector,United States,Bond
+LU0111926373,Pioneer Funds US High Yield Corp Bond E Acc,EUR,0.014,No sector,United States,Bond
+LU0111921226,Pioneer Funds European Research E Acc,EUR,0.0172,No sector,Advanced Europe,Equity
+LU0119366440,Pioneer Funds European Research A Acc,EUR,0.017,No sector,Advanced Europe,Equity
+LU0119425717,Pioneer Funds European Research C Acc,EUR,0.027,No sector,Advanced Europe,Equity
+LU0111929716,Pioneer Funds Asia (Ex Japan) Equity E Acc,EUR,0.0182,No sector,Asia Pacific Ex Japan,Equity
+LU0119435435,Pioneer Funds Asia (Ex Japan) Equity I Acc,EUR,0.0097,No sector,Asia Pacific Ex Japan,Equity
+LU0119373065,Pioneer Funds Asia (Ex Japan) Equity A Acc,EUR,0.021,No sector,Asia Pacific Ex Japan,Equity
+LU0111923941,Pioneer Funds Japanese Equity E Acc,EUR,0.0173,No sector,Japan,Equity
+LU0119372687,Pioneer Funds Japanese Equity A Acc,EUR,0.0186,No sector,Japan,Equity
+LU0119435278,Pioneer Funds Japanese Equity I Acc,EUR,0.0078,No sector,Japan,Equity
+LU0119429032,Pioneer Funds Japanese Equity C Acc,EUR,0.0271,No sector,Japan,Equity
+LU0111930219,Pioneer Funds Euro Short-Term E Acc,EUR,0.011,No sector,Eurozone,Bond
+LU0119402856,Pioneer Funds Euro Short-Term A Acc,EUR,0.0074,No sector,Eurozone,Bond
+LU0119436839,Pioneer Funds Euro Short-Term I Acc,EUR,0.0025,No sector,Eurozone,Bond
+LU0119439007,Pioneer Funds Euro Short-Term C Acc,EUR,0.0174,No sector,Eurozone,Bond
+LU0111930052,Pioneer Funds Euro Bond E Acc,EUR,0.0128,No sector,Europe,Bond
+LU0119435609,Pioneer Funds Euro Bond I Acc,EUR,0.0044,No sector,Europe,Bond
+LU0119429891,Pioneer Funds Euro Bond C Acc,EUR,0.0191,No sector,Europe,Bond
+LU0119391471,Pioneer Funds Euro Bond A Acc,EUR,0.0091,No sector,Europe,Bond
+LU0119345287,Pioneer Funds Euroland Equity A Acc,EUR,0.0171,No sector,Eurozone,Equity
+LU0119432846,Pioneer Funds Euroland Equity I Acc,EUR,0.0069,No sector,Eurozone,Equity
+LU0119423779,Pioneer Funds Euroland Equity C Acc,EUR,0.0271,No sector,Eurozone,Equity
+LU0111919162,Pioneer Funds Euroland Equity E Acc,EUR,0.0173,No sector,Eurozone,Equity
+LU0119402005,Pioneer Funds Emerging Markets Bond A Acc,EUR,0.0154,No sector,Emerging Markets Global,Bond
+LU0119438611,Pioneer Funds Emerging Markets Bond C Acc,EUR,0.0239,No sector,Emerging Markets Global,Bond
+LU0111925136,Pioneer Funds Emerging Markets Bond E Acc,EUR,0.0141,Nosector,Emerging Markets Global,Bond
+LU0111920509,Pioneer Funds Emerging Markets Equity E Acc,EUR,0.03,No sector,Emerging Markets Global,Equity
+LU0119433141,Pioneer Funds Emerging Markets Equity I Acc,EUR,0.0098,No sector,Emerging Markets Global,Equity
+LU0119365988,Pioneer Funds Emerging Markets Equity A Acc,EUR,0.0211,No sector,Emerging Markets Global,Equity
+LU0119425048,Pioneer Funds Emerging Markets Equity C Acc,EUR,0.0281,No sector,Emerging Markets Global,Equity
+LU0133619089,Pioneer Funds US Mid Cap Value I Acc,EUR,0.008,No sector,United States,Equity
+LU0133618602,Pioneer Funds US Mid Cap Value E Acc,EUR,0.017,No sector,United States,Equity
+LU0133643469,Pioneer Funds US Pioneer Fund A Acc,EUR,0.0168,No sector,United States,Equity
+LU0133657840,Pioneer Funds China Equity E Acc,EUR,0.025,No sector,China,Equity
+LU0133660984,Pioneer Funds Euro Corporate Bond I Acc,EUR,0.0046,No sector,Eurozone,Bond
+LU0133660638,Pioneer Funds Euro Corporate Bond E Acc,EUR,0.016,No sector,Eurozone,Bond
+LU0133618271,Pioneer Funds US Mid Cap Value C Acc,EUR,0.0268,No sector,United States,Equity
+LU0133607589,Pioneer Funds US Mid Cap Value A Acc,EUR,0.0218,No sector,United States,Equity
+LU0133646488,Pioneer Funds US Pioneer Fund I Acc,EUR,0.0075,No sector,United States,Equity
+LU0133646058,Pioneer Funds US Pioneer Fund C Acc,EUR,0.0243,No sector,United States,Equity
+LU0133656446,Pioneer Funds China Equity A Acc,EUR,0.0202,No sector,China,Equity
+LU0133657683,Pioneer Funds China Equity C Acc,EUR,0.0272,No sector,China,Equity
+LU0133659622,Pioneer Funds Euro Corporate Bond A Acc,EUR,0.0119,No sector,Eurozone,Bond
+LU0138075311,Franklin European Small-Mid Cap Growth Fund A Acc,EUR,0.01,No sector,Advanced Europe,Equity
+LU0139291818,Franklin U.S. Equity Fund A Acc,EUR,0.01,No sector,United States,Equity
+LU0139292113,Franklin U.S. Equity Fund N Acc,EUR,0.01,No sector,United States,Equity
+LU0139222334,Franklin U.S. Government Fund I Dis,USD,0.004,No sector,United States,Bond
+LU0139292543,Templeton European Fund A Acc,EUR,0.01,No sector,Advanced Europe,Equity
+LU0139292972,Templeton European Fund N Acc,EUR,0.01,No sector,Advanced Europe,Equity
+LU0138981039,FF - Growth & Income Fund A Dis,USD,0.017,No sector,Global,Multi-Asset
+LU0133658061,Pioneer Funds China Equity I Acc,EUR,0.009,No sector,China,Equity
+LU0101244092,Allianz Global Equity A Acc,USD,0.0181,No sector,Global Advanced Markets,Equity
+LU0101257581,Allianz Global Equity A Acc,EUR,0.0181,No sector,Global Advanced Markets,Equity
+LU0128499588,Pictet-Short-Term Money Market CHF R Acc,CHF,0.00164,No sector,Switzerland,Money Market
+LU0115098948,Jpmorgan Investment Funds - Global Macro Opportunities Fund D Acc,EUR,0.0215,No sector,Global,ARIS
+LU0133807916,Pictet-EUR High Yield R Acc,EUR,0.01879,No sector,Europe,Bond
+LU0119433570,Pioneer Funds Top European Players I Acc,EUR,0.0079,No sector,Advanced Europe,Equity
+LU0133586569,Pioneer Funds Euro Short-Term C Dis,EUR,0.0174,No sector,Eurozone,Bond
+LU0133584515,Pioneer Funds Euro Bond A Dis,EUR,0.0091,No sector,Europe,Bond
+LU0119433224,Pioneer Funds European Research I Acc,EUR,0.0072,No sector,Advanced Europe,Equity
+LU0133660471,Pioneer Funds Euro Corporate Bond C Acc,EUR,0.0219,No sector,Eurozone,Bond
+LU0133584788,Pioneer Funds Euro Bond C Dis,EUR,0.0191,No sector,Europe,Bond
+LU0140363697,Franklin Technology Fund N Acc,EUR,0.01,Information Technology,Global,Equity
+LU0140362707,Franklin Mutual U.S. Value Fund A Acc,EUR,0.01,No sector,Global Advanced Markets,Equity
+LU0140362889,Franklin Mutual U.S. Value Fund N Acc,EUR,0.01,No sector,Global Advanced Markets,Equity
+LU0140363002,Franklin Mutual European Fund A Acc,EUR,0.01,No sector,Advanced Europe,Equity
+LU0140363267,FranklinMutual European Fund N Acc,EUR,0.01,No sector,Advanced Europe,Equity
+LU0140420323,Templeton Global Balanced Fund N Acc,EUR,0.008,No sector,Global Advanced Markets,Multi-Asset
+LU0118316214,HSBC GIF Asia Ex Japan Equity E Dis,USD,0.0235,No sector,Asia Pacific Ex Japan,Equity
+LU0107988841,OYSTER World Opportunities C Acc,EUR,0.0207,No sector,Global Advanced Markets,Equity
+LU0335770011,OYSTER European Corporate Bonds R Acc,EUR,0.0089,No sector,Eurozone,Bond
+LU0069164738,OYSTER Italian Opportunities C Acc,EUR,0.0207,No sector,Italy,Equity
+LU0096450399,OYSTER Italian Value C Acc,EUR,0.0206,No sector,Italy,Equity
+LU0096450555,OYSTER European Opportunities C Acc,EUR,0.0204,No sector,Advanced Europe,Equity
+LU0688633170,OYSTER European Selection R Acc,EUR,0.015,No sector,Advanced Europe,Equity
+LU0204990104,OYSTER Dynamic Allocation C Acc,EUR,0.0188,No sector,Eurozone,Multi-Asset
+LU0747343753,OYSTER US Selection C Acc,USD,0.018,No sector,United States,Equity
+LU0204987902,OYSTER Japan Opportunities C Acc,JPY,0.0181,No sector,Japan,Equity
+LU0095343264,OYSTER Euro Fixed Income C Acc,EUR,0.0119,No sector,Europe,Bond
+LU0095343421,OYSTER Multi-Asset Diversified C Acc,EUR,0.0181,No sector,Global Advanced Markets,Multi-Asset
+LU0134341402,SISF Asian Opportunities I Acc,USD,0.0009,No sector,Asia Pacific Ex Japan,Equity
+LU0134338366,SISF Global Bond I Acc,USD,0.0006,No sector,Global,Bond
+LU0134334704,SISF EURO Equity I Acc,EUR,0.0006,No sector,Eurozone,Equity
+LU0115759606,FF - America Fund E Acc,EUR,0.0263,No sector,United States,Equity
+LU0115760109,FF - American Growth Fund E Acc,EUR,0.0265,No sector,United States,Equity
+LU0115763970,FF - Emerging Markets Fund E Acc,EUR,0.0269,No sector,Emerging Markets Global,Equity
+LU0115764275,FF - Euro Blue Chip Fund E Acc,EUR,0.0266,No sector,Eurozone,Equity
+LU0119124864,FF - European Dynamic Growth Fund E Acc,EUR,0.0267,No sector,Advanced Europe,Equity
+LU0115764192,FF - European Growth Fund E Acc,EUR,0.0264,No sector,Advanced Europe,Equity
+LU0115764358,FF - European Smaller Companies Fund E Acc,EUR,0.0268,No sector,Advanced Europe,Equity
+LU0114722738,FF - Global Financial Services Fund E Acc,EUR,0.0267,Financials,Global,Equity
+LU0115765595,FF - Greater China Fund E Acc,EUR,0.0271,No sector,Greater China,Equity
+LU0114721177,FF - Global Health Care Fund E Acc,EUR,0.0267,Health Care,Global,Equity
+LU0115765678,FF - Iberia Fund E Acc,EUR,0.0268,No sector,Iberia,Equity
+LU0114723033,FF - Global Industrials Fund E Acc,EUR,0.0274,Industrials,Global Advanced Markets,Equity
+LU0115766213,FF - Japan Fund E Acc,EUR,0.0269,No sector,Japan,Equity
+LU0115767021,FF - Latin America Fund E Acc,EUR,0.0274,No sector,Emerging Latin America,Equity
+LU0115768185,FF - South East Asia Fund E Acc,EUR,0.027,No sector,Asia Pacific Ex Japan,Equity
+LU0115773425,FF - Global Technology Fund E Acc,EUR,0.0267,Information Technology,Global,Equity
+LU0115774233,FF - Global Telecommunications Fund E Acc,EUR,0.027,Telecommunication Services,Global,Equity
+LU0115769746,FF - World Fund E Acc,EUR,0.0265,No sector,Global,Equity
+LU0132673327,UBAM - Corporate Euro Bond I Acc,EUR,0.0059,No sector,Europe,Bond
+LU0115097544,Jpmorgan Investment Funds - US Select Equity Fund D Acc,USD,0.0219,No sector,United States,Equity
+LU0134334290,SISF Emerging Markets Debt Abs Ret I Acc,USD,0.0007,No sector,Emerging Markets Global,ARIS
+LU0115096736,Jpmorgan Investment Funds - Japan Select Equity Fund D Acc,JPY,0.0255,No sector,Japan,Equity
+LU0123358144,Invesco Energy Fund C Acc,USD,0.01,Energy/Energy,Global,Equity
+LU0555026177,NN (L) Euro Credit P Dis,EUR,0.0095,No sector,Europe,Bond
+LU0140636845,SISF Greater China A Acc,USD,0.0187,No sector,Greater China,Equity
+LU0140636928,SISF Greater China B Acc,USD,0.0247,No sector,Greater China,Equity
+LU0140637140,SISF Greater China C Acc,USD,0.0132,No sector,Greater China,Equity
+LU0115085028,Jpmorgan Investment Funds - Global Select Equity Fund D Acc,USD,0.0256,No sector,Global Advanced Markets,Equity
+LU0144644332,Franklin Global Small-Mid Cap Growth Fund A Acc,USD,0.01,No sector,Global Advanced Markets,Equity
+LU0144647434,Franklin Global Small-Mid Cap Growth Fund B Acc,USD,0.01,No sector,Global Advanced Markets,Equity
+LU0144648085,Franklin Global Small-Mid Cap Growth Fund N Acc,USD,0.01,No sector,Global Advanced Markets,Equity
+LU0134342988,SISF US Dollar Bond I Acc,USD,0.0006,No sector,Global,Bond
+LU0132662635,UBAM - Dynamic Euro Bond I Acc,EUR,0.004,No sector,Europe,Bond
+LU0133626886,Pioneer Funds US High Yield Corp Bond C Dis,EUR,0.0238,No sector,United States,Bond
+LU0133626456,Pioneer Funds US High Yield Corp Bond A Dis,EUR,0.0153,No sector,United States,Bond
+LU0133586304,Pioneer Funds Euro Short-Term A Dis,EUR,0.0074,No sector,Eurozone,Bond
+LU0133599034,Pioneer Funds Emerging Markets Bond C Dis,EUR,0.0239,No sector,Emerging Markets Global,Bond
+LU0133598812,Pioneer Funds Emerging Markets Bond A Dis,EUR,0.0154,No sector,Emerging Markets Global,Bond
+LU0133659895,Pioneer Funds Euro Corporate Bond C Dis,EUR,0.0219,No sector,Eurozone,Bond
+LU0133659036,Pioneer Funds Euro Corporate Bond A Dis,EUR,0.0119,No sector,Eurozone,Bond
+FR0010172767,Edmond de Rothschild Euro Sustainable Credit C Acc,EUR,0.01,No sector,Europe,Bond
+FR0010505578,EdR Euro Sustainable Growth A Acc,EUR,0.02,No sector,Eurozone,Equity
+FR0010177998,Edmond De Rothschild Europe Mid Caps A Acc,EUR,0.016,No sector,Advanced Europe,Equity
+FR0010176487,Edmond de Rothschild Equity Euro Core C Acc,EUR,0.018,No sector,Eurozone,Equity
+FR0010588343,Edmond de Rothschild Tricolore Rendement C Acc,EUR,0.017,No sector,France,Equity
+FR0010027623,Edmond de Rothschild Credit Very Short Term C Acc,EUR,0.005,No sector,Europe,Money Market
+LU0147323579,NN (L) Liquid EUR A Acc,EUR,0.0012,No sector,Eurozone,Money Market
+LU0146258529,NN (L) Global High Dividend P Dis,EUR,0.018,No sector,Global Advanced Markets,Equity
+LU0146257711,NN (L) Global High Dividend P Acc,EUR,0.018,No sector,Global Advanced Markets,Equity
+LU0132182006,Pioneer Funds US Research A Acc,USD,0.0168,No sector,United States,Equity
+LU0132183152,Pioneer Funds US Research C Acc,USD,0.0243,No sector,United States,Equity
+LU0119335056,Pioneer Funds Emerging Europe and Mediterr Equit A Dis,USD,0.0212,No sector,Emerging Europe,Equity
+LU0119422375,Pioneer Funds Emerging Europe and Mediterr Equit C Dis,USD,0.0282,No sector,Emerging Europe,Equity
+LU0119403318,Pioneer Funds US Dollar Short-Term A Dis,USD,0.0104,No sector,United States,Bond
+LU0132162586,Pioneer Funds US Dollar Short-Term A Acc,USD,0.0104,No sector,United States,Bond
+LU0119440609,Pioneer Funds US Dollar Short-Term C Dis,USD,0.0204,No sector,United States,Bond
+LU0119366796,Pioneer Funds Top European Players A Dis,USD,0.0172,No sector,Advanced Europe,Equity
+LU0132198770,Pioneer Funds US High Yield Corp Bond A Acc,USD,0.0153,No sector,United States,Bond
+LU0132199406,Pioneer Funds US High Yield Corp Bond I Acc,USD,0.0055,No sector,United States,Bond
+LU0119372760,Pioneer Funds Asia (Ex Japan) Equity A Dis,USD,0.021,No sector,Asia Pacific Ex Japan,Equity
+LU0132183822,Pioneer Funds Asia (Ex Japan) Equity A Acc,USD,0.021,No sector,Asia Pacific Ex Japan,Equity
+LU0132184473,Pioneer Funds Asia (Ex Japan) Equity C Acc,USD,0.028,No sector,Asia Pacific Ex Japan,Equity
+LU0132180992,Pioneer Funds Japanese Equity C Acc,USD,0.0271,No sector,Japan,Equity
+LU0119337003,Pioneer Funds Euroland Equity A Dis,USD,0.0171,No sector,Eurozone,Equity
+LU0132208249,Pioneer Funds Emerging Markets Bond A Acc,USD,0.0154,No sector,Emerging Markets Global,Bond
+LU0119364585,Pioneer Funds Emerging Markets Equity A Dis,USD,0.0211,No sector,Emerging Markets Global,Equity
+LU0132178079,Pioneer Funds Emerging Markets Equity A Acc,USD,0.0211,No sector,Emerging Markets Global,Equity
+LU0133605377,Pioneer Funds US Mid Cap Value A Acc,USD,0.0218,No sector,United States,Equity
+LU0133616069,Pioneer Funds US Mid Cap Value C Acc,USD,0.0268,No sector,United States,Equity
+LU0133619592,Pioneer Funds US Mid Cap Value I Acc,USD,0.008,No sector,United States,Equity
+LU0133642578,Pioneer Funds US Pioneer Fund A Acc,USD,0.0168,No sector,United States,Equity
+LU0133645597,Pioneer Funds US Pioneer Fund C Acc,USD,0.0243,No sector,United States,Equity
+LU0133646561,Pioneer Funds US Pioneer Fund I Acc,USD,0.0075,No sector,United States,Equity
+LU0133656362,Pioneer Funds China Equity A Acc,USD,0.0202,No sector,China,Equity
+LU0133712611,SISF Japanese Smaller Companies A1 Acc,JPY,0.0236,No sector,Japan,Equity
+LU0119436169,Pioneer Funds Emerging Markets Bond I Acc,EUR,0.0057,No sector,Emerging Markets Global,Bond
+LU0146926141,UBAM - Corporate Us Dollar Bond A Dis,USD,0.0093,No sector,United States,Bond
+LU0149503897,Invesco US Structured Equity Fund C Acc,USD,0.006,No sector,United States,Equity
+LU0149524034,SISF Swiss Small & Mid Cap A Acc,CHF,0.0186,No sector,Switzerland,Equity
+LU0149524117,SISF Swiss Small & Mid Cap B Acc,CHF,0.0246,No sector,Switzerland,Equity
+LU0149524208,SISF Swiss Small & Mid Cap C Acc,CHF,0.0131,No sector,Switzerland,Equity
+LU0147399801,BGF Asian Tiger Bond Fund E Acc,USD,0.017073,No sector,Asia Pacific Ex Japan,Bond
+LU0147394679,BGF European Value Fund E Acc,EUR,0.023076,No sector,Advanced Europe,Equity
+LU0171283533,BGF Global Allocation Fund E Acc,EUR,0.0227,No sector,Global Advanced Markets,Multi-Asset
+LU0171289571,BGF Latin American Fund E Acc,EUR,0.0258,No sector,Emerging Latin America,Equity
+LU0171295891,BGF US Basic Value Fund E Acc,EUR,0.0231,No sector,United States,Equity
+LU0147417710,BGF US Basic Value Fund E Acc,USD,0.0231,No sector,United States,Equity
+LU0147419096,BGF US Dollar Core Bond Fund E Acc,USD,0.0157,No sector,United States,Bond
+LU0147385842,BGF US Government Mortgage Fund E Acc,USD,0.0149,No sector,United States,Bond
+LU0147389919,BGF US Dollar High Yield Bond Fund E Acc,USD,0.0196,No sector,United States,Bond
+LU0171305443,BGF World Financials E Acc,EUR,0.0233,Financials/Diversified Financials,Global,Equity
+LU0171310955,BGF World Technology Fund E Acc,EUR,0.0231,Information Technology,Global,Equity
+LU0133703974,SISF Emerging Markets A1 Acc,USD,0.0238,Nosector,Emerging Markets Global,Equity
+LU0133709153,SISF European Equity Yield A1 Acc,EUR,0.0237,No sector,Advanced Europe,Equity
+LU0133709740,SISF European Large Cap A1 Acc,EUR,0.0237,No sector,Advanced Europe,Equity
+LU0133712025,SISF Italian Equity A1 Acc,EUR,0.0236,No sector,Italy,Equity
+LU0133712371,SISF Japanese Equity A1 Acc,JPY,0.0235,No sector,Japan,Equity
+LU0150929718,SISF Japanese Equity A1 Acc,USD,0.0235,No sector,Japan,Equity
+LU0133713346,SISF Asian Opportunities A1 Acc,USD,0.0237,No sector,Asia Pacific Ex Japan,Equity
+LU0133713858,SISF Swiss Equity A1 Acc,CHF,0.0237,No sector,Switzerland,Equity
+LU0133714401,SISF UK Equity A1 Acc,GBP,0.0235,No sector,United Kingdom,Equity
+LU0133715804,SISF US Large Cap A1 Acc,USD,0.0234,No sector,United States,Equity
+LU0133710243,SISF European Smaller Companies A1 Acc,EUR,0.0236,No sector,Advanced Europe,Equity
+LU0133716109,SISF US Smaller Companies A1 Acc,USD,0.0235,No sector,United States,Equity
+LU0133707454,SISF Euro Government Bond A1 Acc,EUR,0.0115,No sector,Eurozone,Bond
+LU0133710755,SISF Global Bond A1 Acc,USD,0.015,No sector,Global,Bond
+LU0133711647,SISF Global Corporate Bond A1 Acc,USD,0.015,No sector,Global,Bond
+LU0133705839,SISF Emerging Markets DebtAbs Ret A1 Acc,USD,0.0226,No sector,Emerging Markets Global,ARIS
+LU0133715127,SISF US Dollar Bond A1 Acc,USD,0.015,No sector,Global,Bond
+LU0133706993,SISF EURO Short Term BondA1 Acc,EUR,0.0115,No sector,Global,Bond
+LU0133713007,SISF Latin American A1 Acc,USD,0.024,No sector,Emerging Latin America,Equity
+LU0133706308,SISF EURO Equity A1 Acc,EUR,0.0235,No sector,Eurozone,Equity
+LU0150928074,SISF EURO Equity A1 Acc,USD,0.0235,No sector,Eurozone,Equity
+LU0133703115,SISF Asian Bond Absolute Return A1 Acc,USD,0.0203,No sector,Asia Pacific,ARIS
+LU0133706050,SISF EURO Bond A1 Acc,EUR,0.0149,No sector,Global,Bond
+LU0149538414,SISF Swiss Small & Mid Cap A1 Acc,CHF,0.0236,No sector,Switzerland,Equity
+LU0097036916,BGF US Growth Fund ARF Acc,USD,0.018052,No sector,United States,Equity
+LU0106831901,BGF World Financials ARF Acc,USD,0.018269,Financials/Diversified Financials,Global,Equity
+LU0072461881,BGF US Basic Value Fund A Acc,USD,0.018064,No sector,United States,Equity
+LU0054578231,BGF Global SmallCap Fund A Acc,USD,0.018266,No sector,Global Advanced Markets,Equity
+LU0035112944,BGF Pacific Equity Fund A Acc,USD,0.018463,No sector,Asia Pacific,Equity
+LU0072462343,BGF Asian Dragon Fund A Acc,USD,0.018368,No sector,Asia Pacific Ex Japan,Equity
+LU0171281750,BGF European Value Fund A Acc,USD,0.0181,No sector,Advanced Europe,Equity
+LU0072463663,BGF Latin American Fund A Acc,USD,0.020862,No sector,Emerging Latin America,Equity
+LU0072462426,BGF Global Allocation Fund A Acc,USD,0.017668,No sector,Global Advanced Markets,Multi-Asset
+LU0056508442,BGF World Technology Fund A Acc,USD,0.01817,Information Technology,Global,Equity
+LU0096258362,BGF US Dollar Core Bond Fund A Acc,USD,0.01076,No sector,United States,Bond
+LU0096258446,BGF US Government Mortgage Fund A Acc,USD,0.009902,No sector,United States,Bond
+LU0046676465,BGF US Dollar High Yield Bond Fund A Acc,USD,0.014532,No sector,United States,Bond
+LU0063729296,BGF Asian Tiger Bond Fund A Acc,USD,0.012092,No sector,Asia Pacific Ex Japan,Bond
+LU0115099839,Jpmorgan Investment Funds - Global Balanced Fund (Eur) D Acc,EUR,0.0215,No sector,Global Advanced Markets,Multi-Asset
+LU0171304719,BGF World Financials ARF Acc,EUR,0.0183,Financials/Diversified Financials,Global,Equity
+LU0171293920,BGF US Basic Value Fund A Acc,EUR,0.0181,Nosector,United States,Equity
+LU0171296279,BGF US Basic Value Fund A Acc,GBP,0.0181,No sector,United States,Equity
+LU0171290314,BGF Pacific Equity Fund A Acc,EUR,0.0185,No sector,Asia Pacific,Equity
+LU0171290744,BGF Pacific Equity Fund A Acc,GBP,0.0185,No sector,Asia Pacific,Equity
+LU0171269466,BGF Asian Dragon Fund A Acc,EUR,0.0184,No sector,Asia Pacific Ex Japan,Equity
+LU0171270639,BGF Asian Dragon Fund A Acc,GBP,0.0184,No sector,Asia Pacific Ex Japan,Equity
+LU0072462186,BGF European Value Fund A Acc,EUR,0.0181,No sector,Advanced Europe,Equity
+LU0171282212,BGF European Value Fund A Acc,GBP,0.0181,No sector,Advanced Europe,Equity
+LU0171289498,BGF Latin American Fund A Acc,EUR,0.0208,No sector,Emerging Latin America,Equity
+LU0171289738,BGF Latin American Fund A Acc,GBP,0.0208,No sector,Emerging Latin America,Equity
+LU0171283459,BGF Global Allocation Fund A Acc,EUR,0.0177,No sector,Global Advanced Markets,Multi-Asset
+LU0171310443,BGF World Technology Fund A Acc,EUR,0.0181,Information Technology,Global,Equity
+LU0171311680,BGF World Technology Fund A Acc,GBP,0.0181,Information Technology,Global,Equity
+LU0028835386,BGF US Dollar Core Bond Fund A Dis,USD,0.01075,No sector,United States,Bond
+LU0035308682,BGF US Government Mortgage Fund A Dis,USD,0.009909,No sector,United States,Bond
+LU0046675905,BGF US Dollar High Yield Bond Fund A Dis,USD,0.014564,No sector,United States,Bond
+LU0063728728,BGF Asian Tiger Bond Fund A Dis,USD,0.012097,No sector,Asia Pacific Ex Japan,Bond
+LU0091115906,SISF EURO Equity A Dis,EUR,0.0185,No sector,Eurozone,Equity
+LU0091116110,SISF EURO Equity B Dis,EUR,0.0245,No sector,Eurozone,Equity
+LU0091116201,SISF EURO Equity C Dis,EUR,0.0105,No sector,Eurozone,Equity
+LU0012050729,SISF European Equity Yield A Dis,EUR,0.0187,No sector,Advanced Europe,Equity
+LU0062647861,SISF European Equity Yield B Dis,EUR,0.0247,No sector,Advanced Europe,Equity
+LU0062905319,SISF European Equity Yield C Dis,EUR,0.0108,No sector,Advanced Europe,Equity
+LU0062647606,SISF European Large Cap A Dis,EUR,0.0162,No sector,Advanced Europe,Equity
+LU0062908172,SISF European Large Cap C Dis,EUR,0.0107,No sector,Advanced Europe,Equity
+LU0134337632,SISF European Large Cap I Acc,EUR,0.0008,No sector,Advanced Europe,Equity
+LU0053902499,SISF European Smaller Companies A Dis,EUR,0.0186,No sector,Advanced Europe,Equity
