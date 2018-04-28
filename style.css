@@ -1,0 +1,39 @@
+body{
+    background: url("media/background00.jpg") no-repeat center center fixed;
+    background-size: cover; 
+}
+
+#main-body{
+    height: 200vh;
+    width: 80vw;
+    margin: 10%;
+    margin-top: 15%;
+    background-color: rgba(255,255,255,0.1);
+    text-align: center;
+}
+
+#header{
+    margin-top: -2%;
+}
+
+#header-logo{
+    position: absolute;
+    left: 50px;
+    top: 0;
+    width: 15vw;
+    max-width: 240px;
+}
+
+#header-title{
+    font-family: 'Playfair Display';
+    font-size: 4vw;
+    color: white;
+    position: absolute;
+    top: 7%; 
+    right: 20vw;
+    font-weight: bold;
+}
+
+#main-dody{
+    font-family: Brandon,serif;
+}
