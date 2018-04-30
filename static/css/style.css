@@ -27,13 +27,13 @@ body{
 }
 
 #main-body{
-    width: 80vw;
-    margin: 10%;
-    margin-top: 15%;
+    width: 70vw;
+    margin: 15%;
+    margin-bottom: 0;
     padding-top: 0.1%;
     padding-bottom: 1%;
     text-align: center;
-    background-color: rgba(255,255,255,0.1);
+    background-color: rgba(255,255,255,0.2);
     font-family: brandon-grotesque, sans-serif;
 }
 
@@ -44,11 +44,16 @@ body{
     margin-top: 1%;
     margin-left: 1%;
     vertical-align: middle;
-    background-color: rgba(255,255,255,0.3);
+    background-color: rgba(255,255,255,0.15);
     border: grey 1px outset;
     border-radius: 1px;
-    animation-duration: 2s;
-    animation-name: slidein;
+}
+
+.info-box-content{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgba(255,255,255,0.15);
 }
 
 .info-box-name{
@@ -57,23 +62,57 @@ body{
 }
 
 .class-equity{
-    background-color: rgba(0, 0, 255, 0.1) !important;
+    background-color: rgba(0, 0, 255, 0.15) !important;
 }
 
 .class-multi-asset{
-    background-color: rgba(255, 0, 0, 0.1) !important;
+    background-color: rgba(255, 0, 0, 0.15) !important;
 }
 
 .class-bond{
-    background-color: rgba(0, 255, 0, 0.1) !important;
+    background-color: rgba(0, 255, 0, 0.15) !important;
 }
 
-@keyframes slidein{
+.slidein_right{
+    animation-duration: 3s;
+    animation-name: slidein_right;
+}
+
+@keyframes slidein_right{
     from{
-        margin-left: 100%;
+        margin-left: 41%;
+        opacity: 0;
     }
 
     to{
         margin-left: 1%;
+        opacity: 1;
     }
+}
+
+.slidein_left{
+    animation-duration: 3s;
+    animation-name: slidein_left;
+}
+
+@keyframes slidein_left{
+    from{
+        margin-left: -40%;
+        opacity: 0;
+    }
+
+    to{
+        margin-left: 1%;
+        opacity: 1;
+    }
+}
+
+#end{
+    width: 70vw;
+    margin-left: 15%;
+    padding-top: 0.1%;
+    padding-bottom: 1%;
+    text-align: center;
+    font-family: brandon-grotesque, sans-serif;
+    background-color: rgba(255,255,255,0.2);
 }

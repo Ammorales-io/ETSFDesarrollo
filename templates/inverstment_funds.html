@@ -6,53 +6,15 @@
         <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='media/favicon.ico') }}">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,900">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <script>
-                function load_info() {
-                    var xhttp = new XMLHttpRequest();
-                    xhttp.onreadystatechange = function() {
-                        if (this.readyState == 4 && this.status == 200){
-                            json_info = JSON.parse(this.responseText);
-                            json_info.forEach( function(deal) {
-                                    document.getElementById("main-body").innerHTML += load_info_box(deal);
-                            });
-                        }
-                    };
-                    xhttp.open("GET", "http://127.0.0.1:5000/info?to=10", true);
-                    xhttp.send();
-                }
-
-                function load_info_box(deal) {
-                    info_box = "<div class='info-box";
-
-                    if(deal.class == "Equity"){
-                        info_box += " class-equity'>";
-                    } else if(deal.class == "Multi-Asset"){
-                        info_box += " class-multi-asset'>";
-                    } else if(deal.class == "Bond"){
-                        info_box +=" class-bond'>";
-                    }else{
-                        info_box += "'>";
-                    }
-                    
-                    info_box += "<span class='info-box-name'>"+deal.name+"</span><br/><br/>"+
-                                "<span class='info-box-currency'>"+deal.currency+" </span>"+
-                                "<span class='info-box-fees'>"+deal.fees+" </span>"+
-                                "<span class='info-box-sector'>"+deal.sector+" </span>"+
-                                "<span class='info-box-region'>"+deal.region+" </span>"+
-                                "<span class='info-box-class'>"+deal.class+" </span>"+                            
-                                "</div>";
-                    
-                    return info_box;
-                }
-        </script>
-        <script>
-            $(document).ready(load_info);
-        </script>
+        <script src="{{ url_for('static', filename='tools/jquery.waypoints.min.js') }}"></script>
+        <script src="{{ url_for('static', filename='tools/info_display_tools.js') }}"></script>
     </head>
     <body>
         <div id="header">
             <header>
-                <img id="header-logo" src="{{ url_for('static', filename='media/etsf_logo.png') }}"/> 
+                <a href="https://www.etsfactory.com/">
+                    <img id="header-logo" src="{{ url_for('static', filename='media/etsf_logo.png') }}"/> 
+                </a>    
                 <div id="header-title">
                     Our Investment Funds
                 </div>
@@ -61,5 +23,18 @@
         <div id="main-body">
             
         </div>
+        <div id='end'>
+            Loading more content...
+        </div>
+        <script>
+            var load_more_waypoint = new Waypoint({
+                element: document.getElementById("end"),
+                handler: load_info,
+                offset: '30%'
+            });
+
+            window.load = load_info();
+            window.onresize = ready_resize_solution;
+        </script>
     </body>
 </html>
