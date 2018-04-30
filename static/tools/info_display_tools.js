@@ -23,6 +23,8 @@ function load_info() {
 function load_info_box(deal) {
     info_box = "<div class='info-box";
 
+    console.log(n_info_box);
+
     if(n_info_box % 2){
         info_box += " slidein_left";
         n_info_box++;
@@ -41,16 +43,28 @@ function load_info_box(deal) {
         info_box += "'>";
     }
 
-    info_box += "<span class='info-box-name'>"+deal.name+"</span><br/>"+
+    info_box += "<div class='info-box-name'>"+deal.name+
+                    "<img class='mini-country-flag' src='static/media/flags/"+deal.region+".png' title='"+deal.region+"'alt='"+deal.region+"'/>"+
+                "</div>"+
                 "<div class='info-box-content'>"+
                     "<table>"+
                         "<tr>"+
-                            "<td><span class='info-box-currency'><b>Currency</b>  "+deal.currency+" </span></td>"+
-                            "<td><span class='info-box-sector'><b>Sector</b> "+deal.sector+" </span></td>"+
+                            "<th>Currency</th>"+
+                            "<th>Sector</th>"+
+                            "<th>Fees</th>"+
+                            "<th>Region</th>"+
+                            "<th>Class</th>"+
                         "</tr>"+
                         "<tr>"+
-                            "<td><span class='info-box-fees'><b>Fees</b>  "+deal.fees+" </span></td>"+
-                            "<td><span class='info-box-class'><b>Investment Class</b>  "+deal.class+" </span></td>"+
+                            "<td><span class='info-box-currency'>"+deal.currency+"</span></td>";
+    if(deal.sector.length <= 32){
+        info_box +=         "<td><span class='info-box-sector'>"+deal.sector+"</span></td>";
+    } else{
+        info_box +=         "<td><span class='info-box-sector smaller_text' title='"+deal.sector+"'>"+deal.sector.substring(0, 32)+"...</span></td>";
+    }
+    info_box +=             "<td><span class='info-box-fees'>"+deal.fees+"</span></td>"+
+                            "<td><span class='info-box-region'>"+deal.region+"</span></td>"+
+                            "<td><span class='info-box-class'>"+deal.class+"</span></td>"+
                         "</tr>"+
                     "</table>"+
                     "<span class='info-box-region'>"+
