@@ -6,31 +6,29 @@ function load_info() {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200){
-            var even = 0;
             json_info = JSON.parse(this.responseText);
-            json_info.forEach( async function(deal, even) {    
-                $('#main-body').append(load_info_box(deal, even));
+            json_info.forEach( async function(deal) {    
+                $('#main-body').append(load_info_box(deal));
             });
         }
     };
     xhttp.open("GET", "http://127.0.0.1:5000/info?from="+n_info_box+"&to="+(n_info_box+5), true);
     xhttp.send();
-    n_info_box += 5;
 
     Waypoint.refreshAll();
     Waypoint.enableAll();
 }
 
 
-function load_info_box(deal, even) {
+function load_info_box(deal) {
     info_box = "<div class='info-box";
 
-    if(even % 2){
+    if(n_info_box % 2){
         info_box += " slidein_left";
-        even++;
+        n_info_box++;
     } else{
         info_box += " slidein_right";
-        even++;
+        n_info_box++;
     }
 
     if(deal.class == "Equity"){
@@ -42,14 +40,24 @@ function load_info_box(deal, even) {
     }else{
         info_box += "'>";
     }
-    
-    info_box += "<span class='info-box-name'>"+deal.name+"</span><br/><br/>"+
-                "<div class='info-box-content'><span class='info-box-currency'>"+deal.currency+" </span>"+
-                "<span class='info-box-fees'>"+deal.fees+" </span>"+
-                "<span class='info-box-sector'>"+deal.sector+" </span>"+
-                "<span class='info-box-region'>"+deal.region+" </span>"+
-                "<span class='info-box-class'>"+deal.class+" </span>"+                            
-                "</div></div>";
+
+    info_box += "<span class='info-box-name'>"+deal.name+"</span><br/>"+
+                "<div class='info-box-content'>"+
+                    "<table>"+
+                        "<tr>"+
+                            "<td><span class='info-box-currency'><b>Currency</b>  "+deal.currency+" </span></td>"+
+                            "<td><span class='info-box-sector'><b>Sector</b> "+deal.sector+" </span></td>"+
+                        "</tr>"+
+                        "<tr>"+
+                            "<td><span class='info-box-fees'><b>Fees</b>  "+deal.fees+" </span></td>"+
+                            "<td><span class='info-box-class'><b>Investment Class</b>  "+deal.class+" </span></td>"+
+                        "</tr>"+
+                    "</table>"+
+                    "<span class='info-box-region'>"+
+                        "<img class='country-flag' src='static/media/flags/"+deal.region+".png' title='"+deal.region+"'alt='"+deal.region+"'/>"+
+                    " </span>"+
+                "</div>"+                             
+                "</div>";
     
     return info_box;
 }
