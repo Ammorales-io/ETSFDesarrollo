@@ -7,35 +7,70 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:400,900">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <script src="{{ url_for('static', filename='tools/jquery.waypoints.min.js') }}"></script>
-        <script src="{{ url_for('static', filename='tools/info_display_tools.js') }}"></script>
+        <script src="{{ url_for('static', filename='tools/display_tools.js') }}"></script>
     </head>
     <body>
-        <div id="header">
-            <header>
-                <a href="https://www.etsfactory.com/">
-                    <img id="header-logo" src="{{ url_for('static', filename='media/etsf_logo.png') }}"/> 
-                </a>    
-                <div id="header-title">
-                    Our Investment Funds
-                </div>
-            </header>
-        </div>
-        <div id="main-body">
-            
-        </div>
-        <div id='end'>
-            Loading more content
-             <img src="{{ url_for('static', filename='media/loading.gif') }}"
-        </div>
-        <script>
-            var load_more_waypoint = new Waypoint({
-                element: document.getElementById("end"),
-                handler: load_info,
-                offset: '30%'
-            });
+        <!-- Fixed positioned elements -->
+        <a href="https://www.etsfactory.com/">
+            <img id="header-logo-big" class="active-logo" src="{{ url_for('static', filename='media/etsf_logo.png') }}"/>
+            <img id="header-logo-small" src="{{ url_for('static', filename='media/etsf_logo.png') }}"/> 
+        </a>
+        <img id="back-to-top" src ="{{ url_for('static', filename='media/back_to_top.png') }}" onclick="scroll_top()"/>
 
-            window.load = load_info();
-            window.onresize = ready_resize_solution;
+        <!-- Grid -->
+        <div class="grid">
+            <div class="grid-line" id="grid-line-ray-1">
+                <span class="grid-line-ray"/>
+            </div>
+            <div class="grid-line" id="grid-line-ray-2">
+                <span class="grid-line-ray"/>
+            </div>
+            <div class="grid-line" id="grid-line-ray-3">
+                <span class="grid-line-ray"/>
+            </div>
+            <div class="grid-line" id="grid-line-ray-4">
+                <span class="grid-line-ray" />
+            </div>
+        </div>
+
+        <!-- Intro -->
+        <div id="intro">
+            <img id="intro-cover" src="{{ url_for('static', filename='media/background00.jpg') }}"/>    
+                <div id="intro-title">
+                    <hr class="content-line">
+                    <h1>Our Investment Funds</h1>
+                    <span class="intro-content">
+                        <br/><br/>Our investments<br/>
+                        our future.
+                    </span>
+                </div>
+        </div>
+
+        <!-- Investment Funds main content -->
+        <div id="main-body">
+            <div class="main-body-container">
+                <hr class="content-line">
+                <form class="investment-search-form" action="/">
+                    <input id="investment-search-bar" type="text" name="search"><img class="search-icon" src="{{ url_for('static', filename='media/search_icon.png') }}"
+                </form>
+            </div>
+        </div>
+
+        <!-- End of page and Infinite Scroll waypoint container -->
+        <div id='end'>
+             <img src="{{ url_for('static', filename='media/loading.gif') }}"/>
+        </div>
+
+        <!-- Scripts -->
+        <script>
+            // Waypoints and listeners
+            window.onload = load_waypoint;
+            $(document).scroll(scroll_actions);
+
+            // If there is any variable passed thourgh GET method, we skip the intro
+            if (is_there_GET_variables()){
+                scroll_top();
+            }
         </script>
     </body>
 </html>
